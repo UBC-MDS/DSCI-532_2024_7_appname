@@ -1,1 +1,3 @@
-# DSCI-532_2024_7_appname
+# Data Science Job Compenstaion
+
+Our dashboard summarizes compensations in Data Science roles across different industries and company sizes globally.As the program approaches  the end, we aim to provide a go-to tool for students to access to gain high-level understanding of the current compensation landscapes. This will help students narrow the job search target and have a realistic outlook on how much to expect as we begin our career journey.
