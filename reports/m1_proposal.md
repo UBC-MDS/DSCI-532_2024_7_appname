@@ -13,7 +13,7 @@ With the Data Science Job Compensation Dashboard, MDS students have another usef
 
 To illustrate, let's explore a practical example of how this tool can be useful for a hypothetical MDS graduate named Joel. Joel's story will highlight the dashboard's functionality and its value in making informed decisions about his future in the data science field.
 
-Joel, an MDS graduate specializing in data visualization, uses the Data Science Job Compensation Dashboard to guide his job search. He starts by comparing salaries across different cities, using the dashboard to visualize compensation trends worldwide. Interested in tech and finance sectors, Joel filters job roles to Data Analyst and Visualization Specialist, paying close attention to industries with competitive pay.
+Joel, an MDS graduate specializing in data visualization, uses the Data Science Job Compensation Dashboard to guide his job search. He starts by [comparing] salaries across different cities, using the dashboard to [visualize] compensation trends worldwide. Interested in tech and finance sectors, Joel [filters] job roles to Data Analyst and Visualization Specialist, paying close attention to industries with competitive pay.
 
 He then explores how company size affects salaries and job satisfaction, discovering that mid-sized tech firms offer the balance he seeks between compensation and a collaborative environment. The Skills and Technologies section indicates he might be served improving a high in demand skill with high paying data science jobs, prompting him to consider an extra advanced machine learning course to boost his profile.
 
