@@ -1,0 +1,7 @@
+# Data Science Job Compensation Dashboard
+
+Our role: MDS Career Advising Assistant
+
+Target audience: MDS Students
+
+As the Master of Data Science program approaches the end, we understand the immense stress students might feel exploring career opportunities while juggling academic challenges. Career exploration is a critical component of our life journey, yet the scope can be vast, making it overwhelming and time-consuming for many of us. If we could understand the variability in compensation levels across different geographical locations and the character of companies, we could unload one of the criteria students have to explore- salary. We propose building a dashboard where students can explore different factors impacting the salary they expect to receive. We aim that our tool can serve as an initial exploration tool to narrow their job search effort based on the kind of lifestyle and compensation levels students wish to achieve. Our dashboard will display the distribution of income by region, type of roles around data (data scientist, data analyst, ML engineer, Data engineer etc.), the size of the company, the industry the company is in, and the intersections of two factors for students to filter and compare.
