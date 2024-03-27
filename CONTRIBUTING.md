@@ -1,53 +1,26 @@
-# Contributing
+# Contributing to the Data Scientist Compensation Tracker
+### Founding Members
+You can find below for the original founding members' Github IDs. 
+@sho-i98 @wqxxzd @dorisyycai @jcairn02
 
-Contributions are welcome, and they are greatly appreciated! Every little bit
-helps, and credit will always be given.
+### Quick fixes
+For minor corrections such as typos or grammatical errors in documentation:
+Please make changes directly via the GitHub web interface.
+For publication of changes, the adjustments would eventually be formalized only when it is published to main. These will follow Pull Request Process described below. 
 
-## Types of Contributions
+### Prerequisites
+Before making a substantial pull request, you should always:
+ - File an issue to discuss the problem and confirm it needs addressing.
+ - If reporting a bug, please include a minimal reproducible example to illustrate the issue.
 
-### Report Bugs
+### Pull Request Process
+1. Create a new Git branch for each pull request (PR).
+2. Follow the coding style guidelines specific to this project (PEP8 style guide for Python code).
+3. Describe the changes made and reference any related issues in your PR.
+4. We will review pull requests within 7 days.
 
-If you are reporting a bug, please include:
+### Code of Conduct
+Before contributing, please read our [Code of Conduct](https://github.com/UBC-MDS/DSCI-532_2024_7_ds-compensation/blob/main/CODE_OF_CONDUCT.md). We expect all our contributors to follow it to ensure a welcoming environment for everyone.
 
-* Your operating system name and version.
-* Any details about your local setup that might be helpful in troubleshooting.
-* Detailed steps to reproduce the bug.
-
-### Fix Bugs
-
-Look through the GitHub issues for bugs. Anything tagged with "bug" and "help
-wanted" is open to whoever wants to implement it.
-
-### Implement Features
-
-Look through the GitHub issues for features. Anything tagged with "enhancement"
-and "help wanted" is open to whoever wants to implement it.
-
-### Write Documentation
-
-You can never have enough documentation! Please feel free to contribute to any
-part of the documentation, such as the official docs, docstrings, or even
-on the web in blog posts, articles, and such.
-
-### Submit Feedback
-
-If you are proposing a feature:
-
-* Explain in detail how it would work.
-* Keep the scope as narrow as possible, to make it easier to implement.
-* Remember that this is a volunteer-driven project, and that contributions
-  are welcome :)
-
-
-## Pull Request Guidelines
-
-Before you submit a pull request, check that it meets these guidelines:
-
-1. The pull request should include additional tests if appropriate.
-2. If the pull request adds functionality, the docs should be updated.
-3. The pull request should work for all currently supported operating systems and versions of Python.
-
-## Code of Conduct
-
-Please note that the `quanteda` project is released with a
-Code of Conduct. By contributing to this project you agree to abide by its terms.
+### Attribution
+These contributing guidelines were adapted from https://github.com/ttimbers/breast_cancer_predictor/blob/master/CONTRIBUTING.md 
