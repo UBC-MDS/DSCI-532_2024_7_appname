@@ -7,6 +7,20 @@ Target audience: MDS Students
 As the Master of Data Science program approaches the end, we understand the immense stress students might feel exploring career opportunities while juggling academic challenges. Career exploration is a critical component of our life journey, yet the scope can be vast, making it overwhelming and time-consuming for many of us. If we could understand the variability in compensation levels across different geographical locations and the character of companies, we could unload one of the criteria students have to explore- salary. We propose building a dashboard where students can explore different factors impacting the salary they expect to receive. We aim that our tool can serve as an initial exploration tool to narrow their job search effort based on the kind of lifestyle and compensation levels students wish to achieve. Our dashboard will display the distribution of income by region, type of roles around data (data scientist, data analyst, ML engineer, Data engineer etc.), the size of the company, the industry the company is in, and the intersections of two factors for students to filter and compare.
 
 
+## Description of the data
+
+The dataset we are going to be visualizing includes 607 jobs in the field of data science. Each job has seven key variables that contain detailed information about the position, employer, and compensation. We assume this information could help MDS graduate students explore the job markets and narrow their job search efforts. These variables include:
+
+- Level of experience of the role (`experience_level` e.g. Entry level(EN), Mid-Level(ML), Senior(SE), Experience(EX))
+- Type of employment (`employment_type` e.g. Full Time(FT), Part Time(PT), Contract(CT), Freelance(FL))
+- Specific position or role within the data science field (`job_title`, e.g. Data Scientist, Data Analyst, etc)
+- Salaries measured in USD (`salary_in_usd`)
+- Geographical locations of the company recorded in country code (`company_location`)
+- Size of the employing company (`company_size` e.g. Large(L), Median(M), Small(S))
+
+We will also derive a new variable (`work_arrangement`) from the existing variable (`remote_ratio`) to explore whether the position is remote (`remote_ratio` = 100), hybrid (0 < `remote_ratio` < 100), or onsite (`remote_ratio` = 0). Given that students might have varied preferences regarding work arrangements, this new variable could be beneficial for them to explore job opportunities based on their preferred work styles.
+
+
 ## Research Question & Scenario Example
 
 With the Data Science Job Compensation Dashboard, MDS students have another useful tool to navigate job application challengs. By providing access to world wide data on compensation, company types, and job roles, our dashboard allows students to investigate research questions they may have on the industry that will aid them in finding the best role suited for their goals.
