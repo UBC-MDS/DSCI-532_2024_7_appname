@@ -23,7 +23,7 @@ We will also derive a new variable (`work_arrangement`) from the existing variab
 
 ## Research Question & Scenario Example
 
-With the Data Science Job Compensation Dashboard, MDS students have another useful tool to navigate job application challengs. By providing access to world wide data on compensation, company types, and job roles, our dashboard allows students to investigate research questions they may have on the industry that will aid them in finding the best role suited for their goals.
+With the Data Science Job Compensation Dashboard, MDS students have another useful tool to navigate job application challenges. By providing access to world wide data on compensation, company types, and job roles, our dashboard allows students to investigate research questions they may have on the industry that will aid them in finding the best role suited for their goals.
 
 To illustrate, let's explore a practical example of how this tool can be useful for a hypothetical MDS graduate named Joel. Joel's story will highlight the dashboard's functionality and its value in making informed decisions about his future in the data science field.
 
