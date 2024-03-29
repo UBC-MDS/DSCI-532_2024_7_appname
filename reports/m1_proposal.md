@@ -32,3 +32,7 @@ Joel, an MDS graduate specializing in data visualization, uses the Data Science 
 He then explores how company size affects salaries and job satisfaction, discovering that mid-sized tech firms offer the balance he seeks between compensation and a collaborative environment. The Skills and Technologies section indicates he might be served improving a high in demand skill with high paying data science jobs, prompting him to consider an extra advanced machine learning course to boost his profile.
 
 With these new insights, Joel focuses his applications on mid-sized companies in cities where the salary supports a high quality of life. This targeted approach, informed by the dashboard, enables Joel to navigate the job market strategically, aligning his career aspirations with market realities.
+
+## App Sketch & Description
+![](../img/sketch.png)
+This one-page app contains information to help graduates with the data job salary before landing. Four distributions will be shown on the main panel, each containing the salary combined with a few interesting factors(i.e. experience level, employment type, employee residence, company size). There will be some filters on the side panel. There should be dropdown filters for job titles, company levels, and experience levels; radio buttons for currency and employment types; and sliders for any time data. Users can interact with the distributions with the help of these filters.
