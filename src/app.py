@@ -55,18 +55,6 @@ controls = dbc.Card(
             ),
         ]),
         html.Div([
-            dbc.Label("Salary Currency"),
-            dcc.RadioItems(
-                id="currency-selection",
-                options=[
-                    {"label": "USD", "value": "USD"},
-                    {"label": "Local Currency", "value": "Local"},
-                ],
-                value="USD",
-                inline=True,
-            ),
-        ]),
-        html.Div([
             dbc.Label("Company Size"),
             dcc.Dropdown(
                 id="company-size",
@@ -126,11 +114,10 @@ app.layout = dbc.Container(
         Input("filter-employment-type", "value"),
         Input("filter-job-title", "value"),
         Input("filter-company-location", "value"),
-        Input("currency-selection", "value"),
         Input("company-size", "value")
     ]
 )
-def update_graphs(selected_experience_levels, selected_employment_types, selected_job_titles, selected_company_locations, currency_selection, selected_company_sizes):
+def update_graphs(selected_experience_levels, selected_employment_types, selected_job_titles, selected_company_locations, selected_company_sizes):
     filtered_df = df.copy()
     if selected_experience_levels:
         filtered_df = filtered_df[filtered_df['experience_level'].isin(selected_experience_levels)]
@@ -144,6 +131,7 @@ def update_graphs(selected_experience_levels, selected_employment_types, selecte
     if selected_company_sizes:
         filtered_df = filtered_df[filtered_df['company_size'].isin(selected_company_sizes)]
     
+    currency_selection = "USD"
     salary_column = "salary_in_usd" if currency_selection == "USD" else "salary"
     
     fig_size = {'height': 350, 'width': 550}
