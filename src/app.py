@@ -3,9 +3,11 @@ import dash
 import plotly.express as px
 import dash_bootstrap_components as dbc
 import pandas as pd
+import datetime
 from dash import dcc, html, Input, Output
 
 df = pd.read_csv('data/raw/ds_salaries.csv')
+current_date = datetime.datetime.now().strftime("%B %d, %Y")
 
 app = dash.Dash(external_stylesheets=[dbc.themes.BOOTSTRAP])
 server = app.server
@@ -99,6 +101,15 @@ app.layout = dbc.Container(
                 ]),
             ], md=9),
         ], align="start"),
+        html.Footer([
+            html.Hr(style={'borderTop': '1px solid #ccc', 'marginBottom': '10px'}),
+            html.P("This app provides data-driven insights into data science compensation. Created by Dan Zhang, Doris Cai, Joradn Cairns, Sho Inagaki.", 
+                style={'fontSize': '12px', 'margin': '0', 'padding': '2px 0'}),
+            html.A("GitHub Repository", href="https://github.com/UBC-MDS/DSCI-532_2024_7_ds-compensation", target="_blank", 
+                style={'fontSize': '10px', 'display': 'block', 'margin': '0', 'padding': '2px 0'}),
+            html.P(f"Last updated: {current_date}", 
+                style={'fontSize': '8px', 'margin': '0', 'padding': '2px 0'})
+        ], style={'textAlign': 'center', 'marginTop': '20px', 'paddingTop': '10px', 'paddingBottom': '10px'})
     ],
     fluid=True,
 )
