@@ -8,6 +8,7 @@ from dash import dcc, html, Input, Output
 df = pd.read_csv('../data/raw/ds_salaries.csv')
 
 app = dash.Dash(external_stylesheets=[dbc.themes.BOOTSTRAP])
+server = app.server
 
 controls = dbc.Card(
     [
@@ -161,5 +162,7 @@ def update_graphs(selected_experience_levels, selected_employment_types, selecte
     
     return scatter_plot, avg_salary_by_job_title, salary_distribution, salary_by_company_location
 
+#if __name__ == '__main__':
+#    app.run_server(debug=True, host='127.0.0.1')
 if __name__ == '__main__':
-    app.run_server(debug=True, host='127.0.0.1')
+    app.run(debug=False)
