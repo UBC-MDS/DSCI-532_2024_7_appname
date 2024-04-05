@@ -5,7 +5,7 @@ import dash_bootstrap_components as dbc
 import pandas as pd
 from dash import dcc, html, Input, Output
 
-df = pd.read_csv('../data/raw/ds_salaries.csv')
+df = pd.read_csv('data/raw/ds_salaries.csv')
 
 app = dash.Dash(external_stylesheets=[dbc.themes.BOOTSTRAP])
 server = app.server
