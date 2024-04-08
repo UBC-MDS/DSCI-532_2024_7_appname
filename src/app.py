@@ -61,11 +61,8 @@ iso3166_to_continent = {
     'AU': 'Oceania',
     'IE': 'Europe'
 }
-df_country_continent = pd.DataFrame.from_dict(iso3166_to_continent, orient='index', columns=['Continent'])
-df_country_continent = df_country_continent.reset_index()
-df_country_continent.columns = ['Code', 'Continent']
-df = pd.merge(df, df_country_continent, left_on='company_location', right_on='Code', how='left')
-df = df.drop('Code', axis=1, inplace=True)
+
+df['Continent'] = df['company_location'].map(iso3166_to_continent)
 
 def data_mapping_replace(df, col_name, dict):
     df[col_name] = df[col_name].replace(dict)
