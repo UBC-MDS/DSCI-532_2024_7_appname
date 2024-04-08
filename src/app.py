@@ -7,6 +7,73 @@ import datetime
 from dash import dcc, html, Input, Output
 
 df = pd.read_csv('data/raw/ds_salaries.csv')
+
+# Data Wrangling
+iso3166_to_continent = {
+    'DE': 'Europe',
+    'JP': 'Asia',
+    'GB': 'Europe',
+    'HN': 'North America',
+    'US': 'North America',
+    'HU': 'Europe',
+    'NZ': 'Oceania',
+    'FR': 'Europe',
+    'IN': 'Asia',
+    'PK': 'Asia',
+    'CN': 'Asia',
+    'GR': 'Europe',
+    'AE': 'Asia',
+    'NL': 'Europe',
+    'MX': 'North America',
+    'CA': 'North America',
+    'AT': 'Europe',
+    'NG': 'Africa',
+    'ES': 'Europe',
+    'PT': 'Europe',
+    'DK': 'Europe',
+    'IT': 'Europe',
+    'HR': 'Europe',
+    'LU': 'Europe',
+    'PL': 'Europe',
+    'SG': 'Asia',
+    'RO': 'Europe',
+    'IQ': 'Asia',
+    'BR': 'South America',
+    'BE': 'Europe',
+    'UA': 'Europe',
+    'IL': 'Asia',
+    'RU': 'Europe',
+    'MT': 'Europe',
+    'CL': 'South America',
+    'IR': 'Asia',
+    'CO': 'South America',
+    'MD': 'Europe',
+    'KE': 'Africa',
+    'SI': 'Europe',
+    'CH': 'Europe',
+    'VN': 'Asia',
+    'AS': 'Oceania',
+    'TR': 'Asia',
+    'CZ': 'Europe',
+    'DZ': 'Africa',
+    'EE': 'Europe',
+    'MY': 'Asia',
+    'AU': 'Oceania',
+    'IE': 'Europe'
+}
+df_country_continent = pd.DataFrame.from_dict(iso3166_to_continent, orient='index', columns=['Continent'])
+df_country_continent = df_country_continent.reset_index()
+df_country_continent.columns = ['Code', 'Continent']
+df = pd.merge(df, df_country_continent, left_on='company_location', right_on='Code', how='left')
+df = df.drop('Code', axis=1, inplace=True)
+
+def data_mapping_replace(df, col_name, dict):
+    df[col_name] = df[col_name].replace(dict)
+
+data_mapping_replace(df, "remote_ratio", {100: 'Full-Remote', 50: 'Hybrid', 0:'In-Person'})
+data_mapping_replace(df, "experience_level", {'EN': 'Entry-Level', 'SE': 'Lower-Middle', 'MI':'Mid-Level', 'EX': 'Executive-Level'})
+data_mapping_replace(df, "employment_type", {'FT': 'Full-Time', 'PT': 'Part-Time', "FL":'Freelance', "CT": "Contract"})
+
 current_date = datetime.datetime.now().strftime("%B %d, %Y")
 
 app = dash.Dash(external_stylesheets=[dbc.themes.BOOTSTRAP])
