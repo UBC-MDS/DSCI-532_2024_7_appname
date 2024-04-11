@@ -2,10 +2,11 @@
 import pandas as pd
 import json
 import plotly.express as px
-from urllib.request import urlopen
-from dash.dependencies import Input, Output
+import sys
+import os
+sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 from src.app import app
-#from app import app
+from dash.dependencies import Input, Output
 
 df = pd.read_csv('data/clean/ds_salaries.csv')
 with open('data/countries.geojson') as f:
