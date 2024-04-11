@@ -5,8 +5,10 @@ import plotly.express as px
 from urllib.request import urlopen
 from dash.dependencies import Input, Output
 from src.app import app
+from src.data_wrangling import wrangling
 
-df = pd.read_csv('data/clean/ds_salaries.csv')
+# df = pd.read_csv('data/clean/ds_salaries.csv')
+df = wrangling()
 with urlopen('https://github.com/datasets/geo-countries/blob/master/data/countries.geojson?raw=true') as response:
     geojson = json.load(response)
 
