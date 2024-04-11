@@ -55,6 +55,11 @@ def update_histogram_salary(selected_continents):
             "salary": "Average Salary (USD)"
         }
     )
+
+    median_salary = filtered_df['salary'].median()
+    salary_distribution.add_vline(x=median_salary, line_dash="dash", line_color="red", 
+                                  annotation_text=f'Median Salary: ${median_salary:,.2f}', 
+                                  annotation_position="top left")
     
     return salary_distribution
 
@@ -73,6 +78,8 @@ def update_bar_chart_top_jobs(selected_continents, slider_range):
     # Slice the dataframe to include only the range of job titles selected
     if slider_range:
         df_grouped_by_job_title = df_grouped_by_job_title.iloc[slider_range[0]:slider_range[1]]
+
+    df_grouped_by_job_title = df_grouped_by_job_title.sort_values(by='salary', ascending=True)
 
     bar_chart_top_jobs_plot = px.bar(
         df_grouped_by_job_title, 
