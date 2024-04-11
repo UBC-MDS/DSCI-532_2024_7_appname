@@ -2,13 +2,15 @@
 import pandas as pd
 import json
 import plotly.express as px
-from urllib.request import urlopen
-from dash.dependencies import Input, Output
+import sys
+import os
+sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 from src.app import app
+from dash.dependencies import Input, Output
 
 df = pd.read_csv('data/clean/ds_salaries.csv')
-with urlopen('https://github.com/datasets/geo-countries/blob/master/data/countries.geojson?raw=true') as response:
-    geojson = json.load(response)
+with open('data/countries.geojson') as f:
+    geojson = json.load(f)
 
 @app.callback(
     Output("heatmap_salary", "figure"),
