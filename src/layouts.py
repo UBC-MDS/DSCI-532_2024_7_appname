@@ -57,7 +57,7 @@ box_plot_by_work_arrangement_card = dbc.Card(
 bar_chart_top_jobs_card = dbc.Card(
     dbc.CardBody(
         [
-            html.H5("Bar Chart Top Jobs"),
+            html.H5("Bar Chart Top Paying Jobs"),
             dcc.Loading(
                 type="default",
                 children=dcc.Graph(id="bar_chart_top_jobs")

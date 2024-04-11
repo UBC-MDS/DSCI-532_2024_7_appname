@@ -34,5 +34,9 @@ To contribute to our app and dependencies, please clone our repository to your l
 
 ```conda activate ds-compensation```
 
+3. Bring up the dashboard
+
+```python src/app.py```
+
 
 Please refer to our [Contributing Guideline](https://github.com/UBC-MDS/DSCI-532_2024_7_ds-compensation/blob/main/CONTRIBUTING.md) and [Code of Conduct](https://github.com/UBC-MDS/DSCI-532_2024_7_ds-compensation/blob/main/CODE_OF_CONDUCT.md) for contributions.
