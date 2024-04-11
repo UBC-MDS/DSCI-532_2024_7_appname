@@ -4,7 +4,7 @@ import json
 import plotly.express as px
 from urllib.request import urlopen
 from dash.dependencies import Input, Output
-from app import app
+from src.app import app
 
 df = pd.read_csv('data/clean/ds_salaries.csv')
 with urlopen('https://github.com/datasets/geo-countries/blob/master/data/countries.geojson?raw=true') as response:
