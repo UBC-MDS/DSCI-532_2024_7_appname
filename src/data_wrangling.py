@@ -57,7 +57,7 @@ def wrangling():
         'IE': 'Europe'
     }
 
-    df['Continent'] = df['company_location'].map(iso3166_to_continent)
+    df['continent'] = df['company_location'].map(iso3166_to_continent)
 
     def data_mapping_replace(df, col_name, dict):
         df[col_name] = df[col_name].replace(dict)
@@ -66,5 +66,29 @@ def wrangling():
     data_mapping_replace(df, "experience_level", {'EN': 'Entry-Level', 'SE': 'Lower-Middle', 'MI':'Mid-Level', 'EX': 'Executive-Level'})
     data_mapping_replace(df, "employment_type", {'FT': 'Full-Time', 'PT': 'Part-Time', "FL":'Freelance', "CT": "Contract"})
     data_mapping_replace(df, "company_size", {'L': 'Large', 'M': 'Medium', "S":'Small'})
+
+    country_dict = {
+        'DE': 'Germany', 'JP': 'Japan', 'GB': 'United Kingdom', 'HN': 'Honduras',
+        'US': 'United States of America', 'HU': 'Hungary', 'NZ': 'New Zealand', 'FR': 'France',
+        'IN': 'India', 'PK': 'Pakistan', 'CN': 'China', 'GR': 'Greece',
+        'AE': 'United Arab Emirates', 'NL': 'Netherlands', 'MX': 'Mexico', 'CA': 'Canada',
+        'AT': 'Austria', 'NG': 'Nigeria', 'ES': 'Spain', 'PT': 'Portugal',
+        'DK': 'Denmark', 'IT': 'Italy', 'HR': 'Croatia', 'LU': 'Luxembourg',
+        'PL': 'Poland', 'SG': 'Singapore', 'RO': 'Romania', 'IQ': 'Iraq',
+        'BR': 'Brazil', 'BE': 'Belgium', 'UA': 'Ukraine', 'IL': 'Israel',
+        'RU': 'Russia', 'MT': 'Malta', 'CL': 'Chile', 'IR': 'Iran',
+        'CO': 'Colombia', 'MD': 'Moldova', 'KE': 'Kenya', 'SI': 'Slovenia',
+        'CH': 'Switzerland', 'VN': 'Vietnam', 'AS': 'American Samoa', 'TR': 'Turkey',
+        'CZ': 'Czech Republic', 'DZ': 'Algeria', 'EE': 'Estonia', 'MY': 'Malaysia',
+        'AU': 'Australia', 'IE': 'Ireland'
+    }
+    df['company_location'] = df['company_location'].map(country_dict)
+
+    df = df[['job_title', 'employment_type', 'experience_level', 
+            'salary_in_usd', 'remote_ratio', 'company_size', 
+            'company_location', 'continent']]
+    df = df.rename(columns={
+        'salary_in_usd': 'salary'
+    })
 
     return df
