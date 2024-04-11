@@ -6,9 +6,10 @@ import sys
 import os
 sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 from src.app import app
+from src.data_wrangling import wrangling
 from dash.dependencies import Input, Output
 
-df = pd.read_csv('data/clean/ds_salaries.csv')
+df = wrangling()
 with open('data/countries.geojson') as f:
     geojson = json.load(f)
 
