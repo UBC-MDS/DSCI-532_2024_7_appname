@@ -99,3 +99,24 @@ def update_range_slider(selected_continents):
     max_value = len(job_titles)
     default_range = [0, 10] if max_value >= 10 else [0, max_value] if max_value > 0 else [0, 0]
     return max_value, default_range
+
+@app.callback(
+    Output("box_plot_by_work_arrangement", "figure"),
+    Input("filter-continent", "value")
+)
+def update_box_plot_by_work_arrangement(selected_continents):
+    filtered_df = df.copy()
+    if selected_continents:
+        filtered_df = filtered_df[filtered_df['continent'].isin(selected_continents)]
+    
+    box_plot_work_arrangement = px.box(
+        filtered_df, 
+        x="remote_ratio",
+        y="salary", 
+        labels={
+            "remote_ratio": "Remote Ratio",
+            "salary": "Average Salary (USD)"
+        }
+    )
+   
+    return box_plot_work_arrangement
