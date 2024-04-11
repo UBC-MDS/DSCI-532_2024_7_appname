@@ -1,6 +1,7 @@
 import dash
 import dash_bootstrap_components as dbc
 from src.layouts import layout
+from layouts import layout
 
 external_stylesheets = [dbc.themes.BOOTSTRAP]
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
@@ -8,6 +9,7 @@ server = app.server  # Expose server for deployments
 app.layout = layout
 
 from src.callbacks import *
+#from callbacks import *
 
 #if __name__ == '__main__':
 #    app.run_server(debug=True, host='127.0.0.1')
