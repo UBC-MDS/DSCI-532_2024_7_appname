@@ -105,7 +105,7 @@ layout = dbc.Container(
         ]),
         html.Footer([
             html.Hr(style={'borderTop': '1px solid #ccc', 'marginBottom': '10px'}),
-            html.P("This app provides data-driven insights into data science compensation. Created by Dan Zhang, Doris Cai, Joradn Cairns, Sho Inagaki.", 
+            html.P("This app provides data-driven insights into data science compensation. Created by Dan Zhang, Doris Cai, Jordan Cairns, Sho Inagaki.", 
                 style={'fontSize': '12px', 'margin': '0', 'padding': '2px 0'}),
             html.A("GitHub Repository", href="https://github.com/UBC-MDS/DSCI-532_2024_7_ds-compensation", target="_blank", 
                 style={'fontSize': '10px', 'display': 'block', 'margin': '0', 'padding': '2px 0'}),

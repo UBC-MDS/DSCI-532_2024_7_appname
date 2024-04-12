@@ -40,7 +40,7 @@ Internal & Peers:
 
 **Future Improvements**
 
-We intend to release our latest prototype to get more feedback before the final polished release in milestone 4.
+We intend to present our latest prototype to get more feedback before the final polished release in milestone 4.
 
 "Select countries from map, update all charts" was a suggestion by Joel we chose to partially implement for this milestone.
 The trade-off for this suggestion was that most countries do not have sufficient data to present meaningful graphs.

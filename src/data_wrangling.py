@@ -63,7 +63,7 @@ def wrangling():
         df[col_name] = df[col_name].replace(dict)
 
     data_mapping_replace(df, "remote_ratio", {100: 'Full-Remote', 50: 'Hybrid', 0:'In-Person'})
-    data_mapping_replace(df, "experience_level", {'EN': 'Entry-Level', 'SE': 'Lower-Middle', 'MI':'Mid-Level', 'EX': 'Executive-Level'})
+    data_mapping_replace(df, "experience_level", {'EN': 'Entry-Level', 'SE': 'Senior-Level', 'MI': 'Mid-Level', 'EX': 'Executive-Level'})
     data_mapping_replace(df, "employment_type", {'FT': 'Full-Time', 'PT': 'Part-Time', "FL":'Freelance', "CT": "Contract"})
     data_mapping_replace(df, "company_size", {'L': 'Large', 'M': 'Medium', "S":'Small'})
 

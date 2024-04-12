@@ -130,3 +130,27 @@ def update_box_plot_by_work_arrangement(selected_continents):
     )
    
     return box_plot_work_arrangement
+
+@app.callback(
+    Output("box_plot_by_experience", "figure"),
+    Input("filter-continent", "value")
+)
+def update_box_plot_by_experience(selected_continents):
+    filtered_df = df.copy()
+    if selected_continents:
+        filtered_df = filtered_df[filtered_df['continent'].isin(selected_continents)]
+    
+    box_plot_work_arrangement = px.box(
+        filtered_df, 
+        x="experience_level",
+        y="salary", 
+        labels={
+            "experience_level": "Experience",
+            "salary": "Average Salary (USD)"
+        },
+        category_orders={
+            "experience_level": ["Entry-Level", "Mid-Level", "Senior-Level", "Executive-Level"]
+        }
+    )
+
+    return box_plot_work_arrangement
