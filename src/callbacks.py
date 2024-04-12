@@ -140,7 +140,7 @@ def update_box_plot_by_experience(selected_continents):
     if selected_continents:
         filtered_df = filtered_df[filtered_df['continent'].isin(selected_continents)]
     
-    box_plot_work_arrangement = px.box(
+    box_plot_experience = px.box(
         filtered_df, 
         x="experience_level",
         y="salary", 
@@ -153,4 +153,4 @@ def update_box_plot_by_experience(selected_continents):
         }
     )
 
-    return box_plot_work_arrangement
+    return box_plot_experience
