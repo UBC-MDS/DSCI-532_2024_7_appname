@@ -45,6 +45,7 @@ We intend to release our latest prototype to get more feedback before the final 
 "Select countries from map, update all charts" was a suggestion by Joel we chose to partially implement for this milestone.
 The trade-off for this suggestion was that most countries do not have sufficient data to present meaningful graphs.
 Our solution to this trade-off was to allow the option to filter by continent instead of country. 
+
 However, next milestone we might implement a more complex filtering system to allow users to filter between countries with sufficient data within the same continent.
 
 We intend to make our widgets more interactive and will brainstorm strategies on how to best accomplish that.

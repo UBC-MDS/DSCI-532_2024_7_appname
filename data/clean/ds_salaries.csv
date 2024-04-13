@@ -1,608 +1,608 @@
-,job_title,employment_type,experience_level,salary,remote_ratio,company_size,company_location,continent
-0,Data Scientist,Full-Time,Mid-Level,79833,In-Person,Large,Germany,Europe
-1,Machine Learning Scientist,Full-Time,Lower-Middle,260000,In-Person,Small,Japan,Asia
-2,Big Data Engineer,Full-Time,Lower-Middle,109024,Hybrid,Medium,United Kingdom,Europe
-3,Product Data Analyst,Full-Time,Mid-Level,20000,In-Person,Small,Honduras,North America
-4,Machine Learning Engineer,Full-Time,Lower-Middle,150000,Hybrid,Large,United States,North America
-5,Data Analyst,Full-Time,Entry-Level,72000,Full-Remote,Large,United States,North America
-6,Lead Data Scientist,Full-Time,Lower-Middle,190000,Full-Remote,Small,United States,North America
-7,Data Scientist,Full-Time,Mid-Level,35735,Hybrid,Large,Hungary,Europe
-8,Business Data Analyst,Full-Time,Mid-Level,135000,Full-Remote,Large,United States,North America
-9,Lead Data Engineer,Full-Time,Lower-Middle,125000,Hybrid,Small,New Zealand,Oceania
-10,Data Scientist,Full-Time,Entry-Level,51321,In-Person,Small,France,Europe
-11,Data Scientist,Full-Time,Mid-Level,40481,In-Person,Large,India,Asia
-12,Data Scientist,Full-Time,Entry-Level,39916,In-Person,Medium,France,Europe
-13,Lead Data Analyst,Full-Time,Mid-Level,87000,Full-Remote,Large,United States,North America
-14,Data Analyst,Full-Time,Mid-Level,85000,Full-Remote,Large,United States,North America
-15,Data Analyst,Full-Time,Mid-Level,8000,Hybrid,Large,Pakistan,Asia
-16,Data Engineer,Full-Time,Entry-Level,41689,Full-Remote,Small,Japan,Asia
-17,Big Data Engineer,Full-Time,Lower-Middle,114047,Full-Remote,Small,United Kingdom,Europe
-18,Data Science Consultant,Full-Time,Entry-Level,5707,Hybrid,Medium,India,Asia
-19,Lead Data Engineer,Full-Time,Mid-Level,56000,Full-Remote,Medium,United States,North America
-20,Machine Learning Engineer,Full-Time,Mid-Level,43331,In-Person,Medium,China,Asia
-21,Product Data Analyst,Full-Time,Mid-Level,6072,Full-Remote,Large,India,Asia
-22,Data Engineer,Full-Time,Lower-Middle,47899,Hybrid,Large,Greece,Europe
-23,BI Data Analyst,Full-Time,Mid-Level,98000,In-Person,Medium,United States,North America
-24,Lead Data Scientist,Full-Time,Mid-Level,115000,In-Person,Large,United Arab Emirates,Asia
-25,Director of Data Science,Full-Time,Executive-Level,325000,Full-Remote,Large,United States,North America
-26,Research Scientist,Full-Time,Entry-Level,42000,Hybrid,Large,Netherlands,Europe
-27,Data Engineer,Full-Time,Lower-Middle,33511,In-Person,Small,Mexico,North America
-28,Business Data Analyst,Contract,Entry-Level,100000,Full-Remote,Large,United States,North America
-29,Machine Learning Manager,Full-Time,Lower-Middle,117104,Hybrid,Large,Canada,North America
-30,Data Engineering Manager,Full-Time,Mid-Level,59303,Full-Remote,Small,Germany,Europe
-31,Big Data Engineer,Full-Time,Entry-Level,70000,Full-Remote,Large,United States,North America
-32,Data Scientist,Full-Time,Lower-Middle,68428,Full-Remote,Large,United States,North America
-33,Research Scientist,Full-Time,Mid-Level,450000,In-Person,Medium,United States,North America
-34,Data Analyst,Full-Time,Mid-Level,46759,Hybrid,Large,France,Europe
-35,Data Engineer,Full-Time,Mid-Level,74130,Hybrid,Large,Austria,Europe
-36,Data Science Consultant,Full-Time,Mid-Level,103000,Full-Remote,Large,United States,North America
-37,Machine Learning Engineer,Full-Time,Entry-Level,250000,Hybrid,Large,United States,North America
-38,Data Analyst,Full-Time,Entry-Level,10000,Full-Remote,Small,Nigeria,Africa
-39,Machine Learning Engineer,Full-Time,Entry-Level,138000,Full-Remote,Small,United States,North America
-40,Data Scientist,Full-Time,Mid-Level,45760,Full-Remote,Small,United States,North America
-41,Data Engineering Manager,Full-Time,Executive-Level,79833,Hybrid,Large,Spain,Europe
-42,Machine Learning Infrastructure Engineer,Full-Time,Mid-Level,50180,In-Person,Medium,Portugal,Europe
-43,Data Engineer,Full-Time,Mid-Level,106000,Full-Remote,Large,United States,North America
-44,Data Engineer,Full-Time,Mid-Level,112872,Hybrid,Large,United Kingdom,Europe
-45,ML Engineer,Part-Time,Entry-Level,15966,Full-Remote,Small,Germany,Europe
-46,Data Scientist,Full-Time,Mid-Level,76958,Full-Remote,Small,United Kingdom,Europe
-47,Data Engineer,Full-Time,Lower-Middle,188000,Full-Remote,Large,United States,North America
-48,Data Scientist,Full-Time,Mid-Level,105000,Full-Remote,Large,United States,North America
-49,Data Engineer,Full-Time,Mid-Level,70139,Hybrid,Large,France,Europe
-50,Data Analyst,Full-Time,Entry-Level,6072,In-Person,Small,India,Asia
-51,Data Analyst,Full-Time,Entry-Level,91000,Full-Remote,Large,United States,North America
-52,AI Scientist,Full-Time,Entry-Level,45896,Hybrid,Small,Denmark,Europe
-53,Data Engineer,Full-Time,Entry-Level,54742,Full-Remote,Large,Germany,Europe
-54,Computer Vision Engineer,Freelance,Lower-Middle,60000,Full-Remote,Small,United States,North America
-55,Principal Data Scientist,Full-Time,Lower-Middle,148261,Full-Remote,Medium,Germany,Europe
-56,Data Scientist,Full-Time,Mid-Level,38776,Full-Remote,Medium,Spain,Europe
-57,Data Scientist,Full-Time,Mid-Level,118000,Full-Remote,Medium,United States,North America
-58,Data Scientist,Full-Time,Lower-Middle,120000,Hybrid,Large,United States,North America
-59,Data Scientist,Full-Time,Mid-Level,138350,Full-Remote,Medium,United States,North America
-60,Data Engineer,Full-Time,Mid-Level,110000,Full-Remote,Large,United States,North America
-61,Data Engineer,Full-Time,Mid-Level,130800,Full-Remote,Medium,United States,North America
-62,Data Scientist,Part-Time,Entry-Level,21669,Hybrid,Small,Italy,Europe
-63,Data Scientist,Full-Time,Lower-Middle,412000,Full-Remote,Large,United States,North America
-64,Machine Learning Engineer,Full-Time,Lower-Middle,45618,Full-Remote,Small,Croatia,Europe
-65,Data Scientist,Full-Time,Entry-Level,62726,Hybrid,Small,Germany,Europe
-66,Data Scientist,Full-Time,Entry-Level,49268,In-Person,Small,Germany,Europe
-67,Data Science Manager,Full-Time,Lower-Middle,190200,Full-Remote,Medium,United States,North America
-68,Data Scientist,Full-Time,Entry-Level,105000,Full-Remote,Small,United States,North America
-69,Data Scientist,Full-Time,Lower-Middle,91237,In-Person,Small,Austria,Europe
-70,Data Scientist,Full-Time,Mid-Level,62726,Hybrid,Small,Luxembourg,Europe
-71,Data Scientist,Full-Time,Mid-Level,42197,Hybrid,Small,France,Europe
-72,Research Scientist,Full-Time,Entry-Level,82528,Hybrid,Large,United Kingdom,Europe
-73,BI Data Analyst,Full-Time,Executive-Level,150000,Full-Remote,Large,United States,North America
-74,Head of Data,Full-Time,Executive-Level,235000,Full-Remote,Large,United States,North America
-75,Data Scientist,Full-Time,Lower-Middle,53192,Hybrid,Large,France,Europe
-76,BI Data Analyst,Full-Time,Mid-Level,100000,Full-Remote,Medium,United States,North America
-77,3D Computer Vision Researcher,Part-Time,Mid-Level,5409,Hybrid,Medium,India,Asia
-78,ML Engineer,Contract,Mid-Level,270000,Full-Remote,Large,United States,North America
-79,Data Analyst,Full-Time,Entry-Level,80000,Full-Remote,Medium,United States,North America
-80,Data Analytics Engineer,Full-Time,Lower-Middle,79197,Full-Remote,Large,Germany,Europe
-81,Data Engineer,Full-Time,Mid-Level,140000,Full-Remote,Large,United States,North America
-82,Applied Data Scientist,Full-Time,Mid-Level,54238,Hybrid,Large,Canada,North America
-83,Machine Learning Engineer,Full-Time,Mid-Level,47282,Full-Remote,Small,Spain,Europe
-84,Director of Data Science,Full-Time,Executive-Level,153667,Full-Remote,Large,Poland,Europe
-85,Data Engineer,Full-Time,Mid-Level,28476,Full-Remote,Large,Poland,Europe
-86,Data Analyst,Full-Time,Entry-Level,59102,Hybrid,Medium,France,Europe
-87,Data Analytics Engineer,Full-Time,Mid-Level,110000,Full-Remote,Large,United States,North America
-88,Lead Data Analyst,Full-Time,Lower-Middle,170000,Full-Remote,Large,United States,North America
-89,Data Analyst,Full-Time,Lower-Middle,80000,Full-Remote,Small,United States,North America
-90,Marketing Data Analyst,Full-Time,Lower-Middle,88654,Full-Remote,Large,Denmark,Europe
-91,Data Science Consultant,Full-Time,Entry-Level,76833,Full-Remote,Small,Germany,Europe
-92,Lead Data Analyst,Full-Time,Mid-Level,19609,Full-Remote,Large,India,Asia
-93,Lead Data Engineer,Full-Time,Lower-Middle,276000,In-Person,Large,United States,North America
-94,Data Scientist,Full-Time,Entry-Level,29751,Hybrid,Large,India,Asia
-95,Cloud Data Engineer,Full-Time,Mid-Level,89294,Hybrid,Large,Singapore,Asia
-96,AI Scientist,Part-Time,Entry-Level,12000,Full-Remote,Small,United States,North America
-97,Financial Data Analyst,Full-Time,Mid-Level,450000,Full-Remote,Large,United States,North America
-98,Computer Vision Software Engineer,Full-Time,Entry-Level,70000,Full-Remote,Medium,United States,North America
-99,Computer Vision Software Engineer,Full-Time,Mid-Level,95746,Full-Remote,Small,United States,North America
-100,Data Analyst,Full-Time,Mid-Level,75000,In-Person,Large,United States,North America
-101,Data Engineer,Full-Time,Lower-Middle,150000,Full-Remote,Large,United States,North America
-102,BI Data Analyst,Full-Time,Mid-Level,36259,Hybrid,Large,United States,North America
-103,Data Analyst,Full-Time,Mid-Level,62000,In-Person,Large,United States,North America
-104,Data Scientist,Full-Time,Mid-Level,73000,In-Person,Large,United States,North America
-105,Data Analyst,Full-Time,Mid-Level,51519,Hybrid,Large,United Kingdom,Europe
-106,Research Scientist,Full-Time,Mid-Level,187442,Full-Remote,Large,Canada,North America
-107,Data Engineer,Full-Time,Lower-Middle,115000,Full-Remote,Small,United States,North America
-108,Data Engineer,Full-Time,Lower-Middle,150000,Full-Remote,Medium,United States,North America
-109,Data Engineer,Full-Time,Entry-Level,30428,Full-Remote,Large,India,Asia
-110,Machine Learning Engineer,Full-Time,Lower-Middle,94564,Hybrid,Large,Germany,Europe
-111,Director of Data Engineering,Full-Time,Lower-Middle,113476,Full-Remote,Medium,United Kingdom,Europe
-112,Lead Data Engineer,Full-Time,Lower-Middle,103160,Full-Remote,Small,United Kingdom,Europe
-113,AI Scientist,Part-Time,Entry-Level,12000,Full-Remote,Medium,United States,North America
-114,Data Engineer,Full-Time,Mid-Level,45391,Full-Remote,Large,Netherlands,Europe
-115,Machine Learning Scientist,Full-Time,Entry-Level,225000,Full-Remote,Large,United States,North America
-116,Data Scientist,Full-Time,Mid-Level,50000,Full-Remote,Large,Nigeria,Africa
-117,Data Science Engineer,Full-Time,Mid-Level,40189,Full-Remote,Medium,Greece,Europe
-118,Data Analyst,Full-Time,Entry-Level,90000,Full-Remote,Small,United States,North America
-119,Data Engineer,Full-Time,Mid-Level,200000,Full-Remote,Large,United States,North America
-120,Big Data Engineer,Full-Time,Mid-Level,60000,Hybrid,Medium,Romania,Europe
-121,Principal Data Engineer,Full-Time,Lower-Middle,200000,Full-Remote,Medium,United States,North America
-122,Data Analyst,Full-Time,Entry-Level,50000,Full-Remote,Medium,United States,North America
-123,Applied Data Scientist,Full-Time,Entry-Level,110037,In-Person,Large,United Kingdom,Europe
-124,Data Analyst,Part-Time,Entry-Level,10354,Hybrid,Medium,Spain,Europe
-125,Principal Data Scientist,Full-Time,Mid-Level,151000,Full-Remote,Large,United States,North America
-126,Machine Learning Scientist,Full-Time,Lower-Middle,120000,Hybrid,Small,United States,North America
-127,Data Scientist,Full-Time,Mid-Level,9466,In-Person,Small,India,Asia
-128,Machine Learning Engineer,Full-Time,Entry-Level,20000,Full-Remote,Small,India,Asia
-129,Lead Data Scientist,Full-Time,Lower-Middle,40570,Hybrid,Large,India,Asia
-130,Machine Learning Developer,Full-Time,Entry-Level,100000,Hybrid,Small,Iraq,Asia
-131,Data Scientist,Full-Time,Entry-Level,49646,Hybrid,Medium,France,Europe
-132,Applied Machine Learning Scientist,Full-Time,Mid-Level,38400,Full-Remote,Medium,United States,North America
-133,Computer Vision Engineer,Full-Time,Lower-Middle,24000,Full-Remote,Medium,Brazil,South America
-134,Data Scientist,Full-Time,Entry-Level,100000,In-Person,Small,United States,North America
-135,Data Analyst,Full-Time,Mid-Level,90000,Full-Remote,Medium,United States,North America
-136,ML Engineer,Full-Time,Mid-Level,63711,Hybrid,Small,Japan,Asia
-137,ML Engineer,Full-Time,Mid-Level,77364,Hybrid,Small,Japan,Asia
-138,Principal Data Scientist,Full-Time,Lower-Middle,220000,In-Person,Large,United States,North America
-139,Data Scientist,Full-Time,Entry-Level,80000,Full-Remote,Medium,United States,North America
-140,Data Analyst,Full-Time,Mid-Level,135000,Full-Remote,Large,United States,North America
-141,Data Science Manager,Full-Time,Lower-Middle,240000,In-Person,Large,United States,North America
-142,Data Engineering Manager,Full-Time,Lower-Middle,150000,In-Person,Large,United States,North America
-143,Data Scientist,Full-Time,Mid-Level,82500,Full-Remote,Small,United States,North America
-144,Data Engineer,Full-Time,Mid-Level,100000,Full-Remote,Large,United States,North America
-145,Machine Learning Engineer,Full-Time,Lower-Middle,82744,Hybrid,Medium,Belgium,Europe
-146,Research Scientist,Full-Time,Mid-Level,62649,Hybrid,Medium,France,Europe
-147,Data Engineer,Full-Time,Mid-Level,90000,Full-Remote,Large,United States,North America
-148,Data Engineering Manager,Full-Time,Lower-Middle,153000,Full-Remote,Large,United States,North America
-149,Cloud Data Engineer,Full-Time,Lower-Middle,160000,Full-Remote,Small,United States,North America
-150,Director of Data Science,Full-Time,Lower-Middle,168000,In-Person,Small,Japan,Asia
-151,Data Scientist,Full-Time,Mid-Level,150000,Full-Remote,Medium,United States,North America
-152,Data Scientist,Full-Time,Mid-Level,75774,Full-Remote,Large,Canada,North America
-153,Data Scientist,Full-Time,Entry-Level,13400,Full-Remote,Large,Ukraine,Europe
-154,Data Science Manager,Full-Time,Lower-Middle,144000,Full-Remote,Large,United States,North America
-155,Data Science Engineer,Full-Time,Lower-Middle,127221,Hybrid,Large,Canada,North America
-156,Data Scientist,Full-Time,Mid-Level,119059,Full-Remote,Medium,Israel,Asia
-157,Applied Machine Learning Scientist,Full-Time,Mid-Level,423000,Hybrid,Large,United States,North America
-158,Data Analytics Manager,Full-Time,Lower-Middle,120000,Full-Remote,Medium,United States,North America
-159,Machine Learning Engineer,Full-Time,Entry-Level,125000,Full-Remote,Small,United States,North America
-160,Head of Data,Full-Time,Executive-Level,230000,Hybrid,Large,Russia,Europe
-161,Head of Data Science,Full-Time,Executive-Level,85000,In-Person,Medium,Russia,Europe
-162,Data Engineer,Full-Time,Mid-Level,28369,Hybrid,Large,Malta,Europe
-163,Data Science Consultant,Full-Time,Entry-Level,63831,Hybrid,Large,Germany,Europe
-164,Director of Data Science,Full-Time,Executive-Level,130026,Hybrid,Medium,Germany,Europe
-165,Data Specialist,Full-Time,Lower-Middle,165000,Full-Remote,Large,United States,North America
-166,Data Engineer,Full-Time,Entry-Level,80000,Full-Remote,Large,United States,North America
-167,Director of Data Science,Full-Time,Executive-Level,250000,In-Person,Large,United States,North America
-168,BI Data Analyst,Full-Time,Entry-Level,55000,Hybrid,Small,United States,North America
-169,Data Architect,Full-Time,Mid-Level,150000,Full-Remote,Large,United States,North America
-170,Data Architect,Full-Time,Mid-Level,170000,Full-Remote,Large,United States,North America
-171,Data Engineer,Full-Time,Mid-Level,82528,Full-Remote,Large,United Kingdom,Europe
-172,Data Analyst,Full-Time,Entry-Level,60000,Full-Remote,Small,United States,North America
-173,Principal Data Scientist,Full-Time,Lower-Middle,235000,Full-Remote,Large,United States,North America
-174,Research Scientist,Full-Time,Lower-Middle,60757,Hybrid,Large,Portugal,Europe
-175,Data Engineering Manager,Full-Time,Lower-Middle,174000,Full-Remote,Large,United States,North America
-176,Data Scientist,Full-Time,Mid-Level,2859,In-Person,Small,Mexico,North America
-177,Data Scientist,Full-Time,Mid-Level,40038,Full-Remote,Large,Chile,South America
-178,Machine Learning Engineer,Full-Time,Entry-Level,81000,Hybrid,Small,United States,North America
-179,Data Scientist,Full-Time,Mid-Level,5679,Full-Remote,Small,United States,North America
-180,Big Data Engineer,Full-Time,Mid-Level,22611,In-Person,Large,India,Asia
-181,Data Scientist,Full-Time,Mid-Level,90734,Hybrid,Large,Germany,Europe
-182,Data Engineer,Full-Time,Mid-Level,26005,In-Person,Large,United States,North America
-183,Finance Data Analyst,Full-Time,Lower-Middle,61896,Hybrid,Large,United Kingdom,Europe
-184,Machine Learning Scientist,Freelance,Mid-Level,12000,Hybrid,Medium,Pakistan,Asia
-185,Data Engineer,Full-Time,Mid-Level,4000,Full-Remote,Medium,Iran,Asia
-186,Data Analytics Engineer,Full-Time,Lower-Middle,50000,Full-Remote,Medium,United Kingdom,Europe
-187,Data Science Consultant,Full-Time,Executive-Level,69741,Full-Remote,Small,Spain,Europe
-188,Data Engineer,Full-Time,Lower-Middle,76833,Hybrid,Small,United Kingdom,Europe
-189,Machine Learning Engineer,Full-Time,Mid-Level,74000,Hybrid,Small,Japan,Asia
-190,Data Science Manager,Full-Time,Lower-Middle,152000,Full-Remote,Large,France,Europe
-191,Machine Learning Engineer,Full-Time,Entry-Level,21844,Hybrid,Medium,Colombia,South America
-192,Big Data Engineer,Full-Time,Mid-Level,18000,In-Person,Small,Moldova,Europe
-193,Data Science Manager,Full-Time,Lower-Middle,174000,Full-Remote,Large,United States,North America
-194,Research Scientist,Full-Time,Lower-Middle,96113,Hybrid,Large,Canada,North America
-195,Data Scientist,Full-Time,Mid-Level,147000,Hybrid,Large,United States,North America
-196,BI Data Analyst,Full-Time,Entry-Level,9272,Full-Remote,Small,Kenya,Africa
-197,Machine Learning Engineer,Full-Time,Lower-Middle,24342,Full-Remote,Large,India,Asia
-198,Data Science Manager,Full-Time,Lower-Middle,54094,Hybrid,Large,United States,North America
-199,Data Science Consultant,Full-Time,Entry-Level,90000,Full-Remote,Small,United States,North America
-200,Data Scientist,Full-Time,Mid-Level,61467,Hybrid,Medium,Austria,Europe
-201,Machine Learning Infrastructure Engineer,Full-Time,Lower-Middle,195000,Full-Remote,Medium,United States,North America
-202,Data Scientist,Full-Time,Mid-Level,37825,Full-Remote,Large,Spain,Europe
-203,Research Scientist,Full-Time,Lower-Middle,50000,Full-Remote,Small,United States,North America
-204,Data Scientist,Full-Time,Mid-Level,160000,Full-Remote,Large,United States,North America
-205,Data Scientist,Full-Time,Mid-Level,12901,In-Person,Small,Brazil,South America
-206,Machine Learning Engineer,Full-Time,Lower-Middle,200000,Full-Remote,Large,United States,North America
-207,Data Engineer,Full-Time,Lower-Middle,165000,In-Person,Medium,United States,North America
-208,Data Engineer,Freelance,Mid-Level,20000,In-Person,Large,United States,North America
-209,Data Analytics Manager,Full-Time,Lower-Middle,120000,In-Person,Large,United States,North America
-210,Machine Learning Engineer,Full-Time,Mid-Level,24823,Hybrid,Large,Slovenia,Europe
-211,Research Scientist,Full-Time,Mid-Level,56738,Hybrid,Small,France,Europe
-212,Data Engineer,Full-Time,Mid-Level,66022,Hybrid,Small,United Kingdom,Europe
-213,Big Data Engineer,Full-Time,Entry-Level,5882,In-Person,Large,Switzerland,Europe
-214,Machine Learning Engineer,Full-Time,Entry-Level,24823,Hybrid,Medium,Germany,Europe
-215,Principal Data Engineer,Full-Time,Lower-Middle,185000,Full-Remote,Large,United States,North America
-216,Computer Vision Engineer,Part-Time,Entry-Level,28609,Hybrid,Small,Denmark,Europe
-217,Data Scientist,Full-Time,Mid-Level,90734,Hybrid,Large,Germany,Europe
-218,Machine Learning Engineer,Full-Time,Mid-Level,88654,Full-Remote,Medium,Belgium,Europe
-219,Data Analytics Manager,Full-Time,Lower-Middle,140000,Full-Remote,Large,United States,North America
-220,Machine Learning Engineer,Full-Time,Mid-Level,46597,Full-Remote,Large,Poland,Europe
-221,Data Scientist,Full-Time,Mid-Level,116914,Hybrid,Large,United Kingdom,Europe
-222,Data Scientist,Full-Time,Mid-Level,33808,In-Person,Medium,India,Asia
-223,Data Scientist,Full-Time,Mid-Level,56256,Hybrid,Large,United Kingdom,Europe
-224,Machine Learning Scientist,Full-Time,Lower-Middle,225000,Full-Remote,Large,Canada,North America
-225,Principal Data Scientist,Contract,Executive-Level,416000,Full-Remote,Small,United States,North America
-226,Data Scientist,Full-Time,Lower-Middle,87738,Full-Remote,Small,Canada,North America
-227,Data Scientist,Full-Time,Mid-Level,88654,Hybrid,Large,Germany,Europe
-228,Data Scientist,Full-Time,Lower-Middle,135000,In-Person,Large,United States,North America
-229,Data Analyst,Full-Time,Lower-Middle,71786,Full-Remote,Medium,Canada,North America
-230,Big Data Engineer,Full-Time,Entry-Level,16228,Full-Remote,Large,India,Asia
-231,ML Engineer,Full-Time,Lower-Middle,256000,Full-Remote,Small,United States,North America
-232,Director of Data Engineering,Full-Time,Lower-Middle,200000,Full-Remote,Large,United States,North America
-233,Data Analyst,Full-Time,Lower-Middle,200000,Full-Remote,Large,United States,North America
-234,Data Architect,Full-Time,Mid-Level,180000,Full-Remote,Large,United States,North America
-235,Head of Data Science,Full-Time,Mid-Level,110000,In-Person,Small,United States,North America
-236,Research Scientist,Full-Time,Mid-Level,63810,Full-Remote,Medium,Canada,North America
-237,Data Scientist,Full-Time,Mid-Level,46809,Full-Remote,Medium,Spain,Europe
-238,Data Scientist,Full-Time,Entry-Level,4000,In-Person,Medium,Vietnam,Asia
-239,Data Engineer,Full-Time,Entry-Level,21637,Hybrid,Medium,India,Asia
-240,Data Scientist,Full-Time,Lower-Middle,103691,Full-Remote,Large,Canada,North America
-241,Data Analyst,Full-Time,Mid-Level,80000,Full-Remote,Large,United States,North America
-242,Data Engineer,Full-Time,Mid-Level,110000,Full-Remote,Large,United States,North America
-243,Data Scientist,Full-Time,Lower-Middle,165000,Full-Remote,Large,United States,North America
-244,AI Scientist,Full-Time,Entry-Level,18053,Full-Remote,Small,American Samoa,Oceania
-245,Data Engineer,Full-Time,Mid-Level,72212,Hybrid,Large,United Kingdom,Europe
-246,Data Scientist,Full-Time,Entry-Level,36643,Hybrid,Large,France,Europe
-247,Data Engineer,Full-Time,Mid-Level,12103,In-Person,Medium,Turkey,Asia
-248,Data Engineer,Full-Time,Lower-Middle,96282,Hybrid,Large,United Kingdom,Europe
-249,Principal Data Analyst,Full-Time,Lower-Middle,170000,Full-Remote,Medium,United States,North America
-250,Data Scientist,Full-Time,Mid-Level,115000,Hybrid,Large,United States,North America
-251,Data Scientist,Full-Time,Entry-Level,90000,Full-Remote,Small,United States,North America
-252,Principal Data Engineer,Full-Time,Executive-Level,600000,Full-Remote,Large,United States,North America
-253,Data Scientist,Full-Time,Entry-Level,28399,Full-Remote,Medium,India,Asia
-254,Data Analyst,Full-Time,Mid-Level,93000,Full-Remote,Large,United States,North America
-255,Big Data Architect,Full-Time,Lower-Middle,99703,Hybrid,Medium,Canada,North America
-256,Data Engineer,Full-Time,Mid-Level,200000,Full-Remote,Large,United States,North America
-257,Principal Data Scientist,Full-Time,Lower-Middle,173762,Full-Remote,Medium,Germany,Europe
-258,Machine Learning Engineer,Full-Time,Lower-Middle,185000,Hybrid,Large,United States,North America
-259,Director of Data Science,Full-Time,Executive-Level,141846,In-Person,Large,Germany,Europe
-260,Data Scientist,Full-Time,Mid-Level,130000,Hybrid,Large,United States,North America
-261,Data Analyst,Full-Time,Lower-Middle,63831,Hybrid,Large,Germany,Europe
-262,Data Scientist,Full-Time,Mid-Level,16904,Full-Remote,Small,India,Asia
-263,Machine Learning Engineer,Full-Time,Lower-Middle,66265,In-Person,Large,India,Asia
-264,Data Scientist,Full-Time,Mid-Level,25532,Full-Remote,Small,Germany,Europe
-265,Lead Data Engineer,Full-Time,Lower-Middle,160000,Hybrid,Small,United States,North America
-266,Data Engineer,Full-Time,Mid-Level,93150,In-Person,Medium,United States,North America
-267,Data Engineer,Full-Time,Mid-Level,111775,In-Person,Medium,United States,North America
-268,Data Engineer,Full-Time,Mid-Level,28016,Full-Remote,Medium,Turkey,Asia
-269,Data Engineer,Full-Time,Entry-Level,65013,Hybrid,Medium,Germany,Europe
-270,Data Engineer,Full-Time,Entry-Level,72500,Full-Remote,Large,United States,North America
-271,Computer Vision Engineer,Full-Time,Lower-Middle,18907,In-Person,Medium,Brazil,South America
-272,Data Science Consultant,Full-Time,Entry-Level,76833,In-Person,Large,Germany,Europe
-273,Machine Learning Engineer,Full-Time,Entry-Level,85000,Full-Remote,Small,Germany,Europe
-274,Data Scientist,Full-Time,Lower-Middle,77684,Hybrid,Medium,France,Europe
-275,Data Scientist,Full-Time,Entry-Level,100000,Full-Remote,Medium,United States,North America
-276,Data Scientist,Full-Time,Entry-Level,58000,Hybrid,Large,United States,North America
-277,AI Scientist,Full-Time,Lower-Middle,55000,Full-Remote,Large,Spain,Europe
-278,Data Scientist,Full-Time,Lower-Middle,20171,Hybrid,Large,Turkey,Asia
-279,Business Data Analyst,Full-Time,Entry-Level,59102,Full-Remote,Large,Luxembourg,Europe
-280,Data Engineer,Full-Time,Mid-Level,112000,Full-Remote,Large,United States,North America
-281,Research Scientist,Full-Time,Entry-Level,100000,In-Person,Large,China,Asia
-282,Data Engineer,Part-Time,Mid-Level,69741,Full-Remote,Large,Netherlands,Europe
-283,Staff Data Scientist,Contract,Lower-Middle,105000,Full-Remote,Medium,United States,North America
-284,Research Scientist,Full-Time,Mid-Level,69999,Hybrid,Large,Czech Republic,Europe
-285,Data Science Manager,Full-Time,Lower-Middle,94665,Hybrid,Large,India,Asia
-286,Head of Data,Full-Time,Lower-Middle,102839,Full-Remote,Large,Slovenia,Europe
-287,Data Scientist,Full-Time,Mid-Level,109000,Hybrid,Large,United States,North America
-288,Machine Learning Engineer,Full-Time,Mid-Level,51064,Hybrid,Large,Italy,Europe
-289,Data Engineer,Full-Time,Lower-Middle,135000,Full-Remote,Medium,United States,North America
-290,Data Analyst,Full-Time,Lower-Middle,155000,Full-Remote,Medium,United States,North America
-291,Data Analyst,Full-Time,Lower-Middle,120600,Full-Remote,Medium,United States,North America
-292,Data Scientist,Full-Time,Mid-Level,130000,In-Person,Medium,United States,North America
-293,Data Scientist,Full-Time,Mid-Level,90000,In-Person,Medium,United States,North America
-294,Data Engineer,Full-Time,Mid-Level,170000,Full-Remote,Medium,United States,North America
-295,Data Engineer,Full-Time,Mid-Level,150000,Full-Remote,Medium,United States,North America
-296,Data Analyst,Full-Time,Lower-Middle,102100,Full-Remote,Medium,United States,North America
-297,Data Analyst,Full-Time,Lower-Middle,84900,Full-Remote,Medium,United States,North America
-298,Data Scientist,Full-Time,Lower-Middle,136620,Full-Remote,Medium,United States,North America
-299,Data Scientist,Full-Time,Lower-Middle,99360,Full-Remote,Medium,United States,North America
-300,Data Scientist,Full-Time,Lower-Middle,117789,In-Person,Medium,United Kingdom,Europe
-301,Data Scientist,Full-Time,Lower-Middle,104702,In-Person,Medium,United Kingdom,Europe
-302,Data Scientist,Full-Time,Lower-Middle,146000,Full-Remote,Medium,United States,North America
-303,Data Scientist,Full-Time,Lower-Middle,123000,Full-Remote,Medium,United States,North America
-304,Data Engineer,Full-Time,Entry-Level,52351,Full-Remote,Medium,United Kingdom,Europe
-305,Data Analyst,Full-Time,Lower-Middle,99000,In-Person,Medium,United States,North America
-306,Data Analyst,Full-Time,Lower-Middle,116000,In-Person,Medium,United States,North America
-307,Data Analyst,Full-Time,Mid-Level,106260,In-Person,Medium,United States,North America
-308,Data Analyst,Full-Time,Mid-Level,126500,In-Person,Medium,United States,North America
-309,Data Engineer,Full-Time,Executive-Level,242000,Full-Remote,Medium,United States,North America
-310,Data Engineer,Full-Time,Executive-Level,200000,Full-Remote,Medium,United States,North America
-311,Data Scientist,Full-Time,Mid-Level,65438,In-Person,Medium,United Kingdom,Europe
-312,Data Scientist,Full-Time,Mid-Level,39263,In-Person,Medium,United Kingdom,Europe
-313,Data Engineer,Full-Time,Mid-Level,78526,In-Person,Medium,United Kingdom,Europe
-314,Data Engineer,Full-Time,Mid-Level,52351,In-Person,Medium,United Kingdom,Europe
-315,Data Scientist,Full-Time,Lower-Middle,165220,Full-Remote,Medium,United States,North America
-316,Data Engineer,Full-Time,Entry-Level,45807,Full-Remote,Medium,United Kingdom,Europe
-317,Data Scientist,Full-Time,Lower-Middle,120160,Full-Remote,Medium,United States,North America
-318,Data Analyst,Full-Time,Lower-Middle,90320,Full-Remote,Medium,United States,North America
-319,Data Engineer,Full-Time,Lower-Middle,181940,In-Person,Medium,United States,North America
-320,Data Engineer,Full-Time,Lower-Middle,132320,In-Person,Medium,United States,North America
-321,Data Engineer,Full-Time,Lower-Middle,220110,In-Person,Medium,United States,North America
-322,Data Engineer,Full-Time,Lower-Middle,160080,In-Person,Medium,United States,North America
-323,Data Scientist,Full-Time,Lower-Middle,180000,In-Person,Large,United States,North America
-324,Data Scientist,Full-Time,Lower-Middle,120000,In-Person,Large,United States,North America
-325,Data Analyst,Full-Time,Lower-Middle,124190,Full-Remote,Medium,United States,North America
-326,Data Analyst,Full-Time,Executive-Level,130000,Full-Remote,Medium,United States,North America
-327,Data Analyst,Full-Time,Executive-Level,110000,Full-Remote,Medium,United States,North America
-328,Data Analyst,Full-Time,Lower-Middle,170000,Full-Remote,Medium,United States,North America
-329,Data Analyst,Full-Time,Mid-Level,115500,Full-Remote,Medium,United States,North America
-330,Data Analyst,Full-Time,Lower-Middle,112900,Full-Remote,Medium,United States,North America
-331,Data Analyst,Full-Time,Lower-Middle,90320,Full-Remote,Medium,United States,North America
-332,Data Analyst,Full-Time,Lower-Middle,112900,Full-Remote,Medium,United States,North America
-333,Data Analyst,Full-Time,Lower-Middle,90320,Full-Remote,Medium,United States,North America
-334,Data Engineer,Full-Time,Lower-Middle,165400,Full-Remote,Medium,United States,North America
-335,Data Engineer,Full-Time,Lower-Middle,132320,Full-Remote,Medium,United States,North America
-336,Data Analyst,Full-Time,Mid-Level,167000,Full-Remote,Medium,United States,North America
-337,Data Engineer,Full-Time,Lower-Middle,243900,Full-Remote,Medium,United States,North America
-338,Data Analyst,Full-Time,Lower-Middle,136600,Full-Remote,Medium,United States,North America
-339,Data Analyst,Full-Time,Lower-Middle,109280,Full-Remote,Medium,United States,North America
-340,Data Engineer,Full-Time,Lower-Middle,128875,Full-Remote,Medium,United States,North America
-341,Data Engineer,Full-Time,Lower-Middle,93700,Full-Remote,Medium,United States,North America
-342,Head of Data Science,Full-Time,Executive-Level,224000,Full-Remote,Medium,United States,North America
-343,Head of Data Science,Full-Time,Executive-Level,167875,Full-Remote,Medium,United States,North America
-344,Analytics Engineer,Full-Time,Executive-Level,175000,Full-Remote,Medium,United States,North America
-345,Data Engineer,Full-Time,Lower-Middle,156600,Full-Remote,Medium,United States,North America
-346,Data Engineer,Full-Time,Lower-Middle,108800,In-Person,Medium,United States,North America
-347,Data Scientist,Full-Time,Lower-Middle,95550,In-Person,Medium,United States,North America
-348,Data Engineer,Full-Time,Lower-Middle,113000,In-Person,Large,United States,North America
-349,Data Analyst,Full-Time,Lower-Middle,135000,Full-Remote,Medium,United States,North America
-350,Data Science Manager,Full-Time,Lower-Middle,161342,Full-Remote,Medium,United States,North America
-351,Data Science Manager,Full-Time,Lower-Middle,137141,Full-Remote,Medium,United States,North America
-352,Data Scientist,Full-Time,Lower-Middle,167000,Full-Remote,Medium,United States,North America
-353,Data Scientist,Full-Time,Lower-Middle,123000,Full-Remote,Medium,United States,North America
-354,Data Engineer,Full-Time,Lower-Middle,78526,In-Person,Medium,United Kingdom,Europe
-355,Data Engineer,Full-Time,Lower-Middle,65438,In-Person,Medium,United Kingdom,Europe
-356,Data Scientist,Full-Time,Lower-Middle,150000,In-Person,Medium,United States,North America
-357,Data Scientist,Full-Time,Lower-Middle,211500,Full-Remote,Medium,United States,North America
-358,Data Architect,Full-Time,Lower-Middle,192400,Full-Remote,Medium,Canada,North America
-359,Data Architect,Full-Time,Lower-Middle,90700,Full-Remote,Medium,Canada,North America
-360,Data Analyst,Full-Time,Lower-Middle,130000,Full-Remote,Medium,Canada,North America
-361,Data Analyst,Full-Time,Lower-Middle,61300,Full-Remote,Medium,Canada,North America
-362,Data Analyst,Full-Time,Lower-Middle,130000,Full-Remote,Medium,Canada,North America
-363,Data Analyst,Full-Time,Lower-Middle,61300,Full-Remote,Medium,Canada,North America
-364,Data Engineer,Full-Time,Lower-Middle,160000,In-Person,Large,United States,North America
-365,Data Scientist,Full-Time,Lower-Middle,138600,Full-Remote,Medium,United States,North America
-366,Data Engineer,Full-Time,Lower-Middle,136000,In-Person,Medium,United States,North America
-367,Data Analyst,Full-Time,Mid-Level,58000,In-Person,Small,United States,North America
-368,Analytics Engineer,Full-Time,Executive-Level,135000,Full-Remote,Medium,United States,North America
-369,Data Scientist,Full-Time,Lower-Middle,170000,Full-Remote,Medium,United States,North America
-370,Data Scientist,Full-Time,Lower-Middle,123000,Full-Remote,Medium,United States,North America
-371,Machine Learning Engineer,Full-Time,Lower-Middle,189650,In-Person,Medium,United States,North America
-372,Machine Learning Engineer,Full-Time,Lower-Middle,164996,In-Person,Medium,United States,North America
-373,ETL Developer,Full-Time,Mid-Level,54957,In-Person,Medium,Greece,Europe
-374,ETL Developer,Full-Time,Mid-Level,54957,In-Person,Medium,Greece,Europe
-375,Lead Data Engineer,Full-Time,Executive-Level,118187,Full-Remote,Small,Canada,North America
-376,Data Analyst,Full-Time,Lower-Middle,132000,In-Person,Medium,United States,North America
-377,Data Engineer,Full-Time,Lower-Middle,165400,Full-Remote,Medium,United States,North America
-378,Data Architect,Full-Time,Lower-Middle,208775,Full-Remote,Medium,United States,North America
-379,Data Architect,Full-Time,Lower-Middle,147800,Full-Remote,Medium,United States,North America
-380,Data Engineer,Full-Time,Lower-Middle,136994,Full-Remote,Medium,United States,North America
-381,Data Engineer,Full-Time,Lower-Middle,101570,Full-Remote,Medium,United States,North America
-382,Data Analyst,Full-Time,Lower-Middle,128875,Full-Remote,Medium,United States,North America
-383,Data Analyst,Full-Time,Lower-Middle,93700,Full-Remote,Medium,United States,North America
-384,Head of Machine Learning,Full-Time,Executive-Level,79039,Hybrid,Large,India,Asia
-385,Data Engineer,Full-Time,Lower-Middle,132320,Full-Remote,Medium,United States,North America
-386,Machine Learning Engineer,Full-Time,Entry-Level,37300,Full-Remote,Large,United Kingdom,Europe
-387,Data Analyst,Full-Time,Lower-Middle,164000,In-Person,Medium,United States,North America
-388,Data Engineer,Full-Time,Lower-Middle,155000,Full-Remote,Medium,United States,North America
-389,Machine Learning Engineer,Full-Time,Mid-Level,124333,In-Person,Medium,United Kingdom,Europe
-390,Machine Learning Engineer,Full-Time,Mid-Level,98158,In-Person,Medium,United Kingdom,Europe
-391,AI Scientist,Full-Time,Mid-Level,120000,In-Person,Medium,United States,North America
-392,Data Analyst,Full-Time,Lower-Middle,112900,Full-Remote,Medium,United States,North America
-393,Data Analyst,Full-Time,Lower-Middle,90320,Full-Remote,Medium,United States,North America
-394,Data Analytics Manager,Full-Time,Lower-Middle,145000,Full-Remote,Medium,United States,North America
-395,Data Analytics Manager,Full-Time,Lower-Middle,105400,Full-Remote,Medium,United States,North America
-396,Machine Learning Engineer,Full-Time,Mid-Level,87932,Full-Remote,Medium,Germany,Europe
-397,Data Engineer,Full-Time,Mid-Level,117789,In-Person,Medium,United Kingdom,Europe
-398,Data Scientist,Full-Time,Lower-Middle,215300,Full-Remote,Large,United States,North America
-399,Data Scientist,Full-Time,Lower-Middle,158200,Full-Remote,Large,United States,North America
-400,Data Engineer,Full-Time,Lower-Middle,209100,Full-Remote,Large,United States,North America
-401,Data Engineer,Full-Time,Lower-Middle,154600,Full-Remote,Large,United States,North America
-402,Data Analyst,Full-Time,Lower-Middle,115934,In-Person,Medium,United States,North America
-403,Data Analyst,Full-Time,Lower-Middle,81666,In-Person,Medium,United States,North America
-404,Data Engineer,Full-Time,Lower-Middle,175000,Full-Remote,Medium,United States,North America
-405,Data Engineer,Full-Time,Mid-Level,98158,In-Person,Medium,United Kingdom,Europe
-406,Data Analyst,Full-Time,Mid-Level,58000,In-Person,Small,United States,North America
-407,Data Engineer,Full-Time,Lower-Middle,183600,Full-Remote,Large,United States,North America
-408,Data Analyst,Full-Time,Mid-Level,52351,Full-Remote,Medium,United Kingdom,Europe
-409,Data Scientist,Full-Time,Lower-Middle,180000,Full-Remote,Medium,United States,North America
-410,Data Scientist,Full-Time,Mid-Level,71982,In-Person,Medium,United Kingdom,Europe
-411,Data Scientist,Full-Time,Mid-Level,45807,In-Person,Medium,United Kingdom,Europe
-412,Data Engineer,Full-Time,Mid-Level,65949,Full-Remote,Medium,Greece,Europe
-413,Data Engineer,Full-Time,Mid-Level,49461,Full-Remote,Medium,Greece,Europe
-414,Data Engineer,Full-Time,Mid-Level,78526,Full-Remote,Medium,United Kingdom,Europe
-415,Data Engineer,Full-Time,Mid-Level,58894,Full-Remote,Medium,United Kingdom,Europe
-416,Data Scientist,Full-Time,Lower-Middle,260000,Full-Remote,Medium,United States,North America
-417,Data Science Engineer,Full-Time,Lower-Middle,60000,Full-Remote,Large,Mexico,North America
-418,Data Engineer,Full-Time,Mid-Level,63900,In-Person,Medium,United States,North America
-419,Machine Learning Scientist,Full-Time,Mid-Level,160000,Full-Remote,Large,United States,North America
-420,Machine Learning Scientist,Full-Time,Mid-Level,112300,Full-Remote,Large,United States,North America
-421,Data Science Manager,Full-Time,Mid-Level,241000,Full-Remote,Medium,United States,North America
-422,Data Science Manager,Full-Time,Mid-Level,159000,Full-Remote,Medium,United States,North America
-423,Data Scientist,Full-Time,Lower-Middle,180000,In-Person,Medium,United States,North America
-424,Data Scientist,Full-Time,Lower-Middle,80000,In-Person,Medium,United States,North America
-425,Data Engineer,Full-Time,Mid-Level,82900,In-Person,Medium,United States,North America
-426,Data Engineer,Full-Time,Lower-Middle,100800,Full-Remote,Large,United States,North America
-427,Data Engineer,Full-Time,Mid-Level,49461,Full-Remote,Medium,Spain,Europe
-428,Data Scientist,Full-Time,Lower-Middle,140400,In-Person,Large,United States,North America
-429,Data Analyst,Full-Time,Mid-Level,39263,Full-Remote,Medium,United Kingdom,Europe
-430,Data Analyst,Full-Time,Mid-Level,43966,Full-Remote,Medium,Spain,Europe
-431,Data Analyst,Full-Time,Mid-Level,32974,Full-Remote,Medium,Spain,Europe
-432,Data Engineer,Full-Time,Mid-Level,87932,Full-Remote,Medium,Spain,Europe
-433,Data Engineer,Full-Time,Mid-Level,76940,Full-Remote,Medium,Spain,Europe
-434,Data Engineer,Full-Time,Mid-Level,104702,Full-Remote,Medium,United Kingdom,Europe
-435,Data Engineer,Full-Time,Mid-Level,91614,Full-Remote,Medium,United Kingdom,Europe
-436,Data Engineer,Full-Time,Mid-Level,65949,Full-Remote,Medium,Spain,Europe
-437,Data Engineer,Full-Time,Mid-Level,87932,Full-Remote,Medium,Greece,Europe
-438,Machine Learning Engineer,Full-Time,Lower-Middle,189650,In-Person,Medium,United States,North America
-439,Machine Learning Engineer,Full-Time,Lower-Middle,164996,In-Person,Medium,United States,North America
-440,Data Analyst,Full-Time,Mid-Level,43966,Full-Remote,Medium,Greece,Europe
-441,Data Analyst,Full-Time,Mid-Level,32974,Full-Remote,Medium,Greece,Europe
-442,Data Engineer,Full-Time,Mid-Level,98158,Full-Remote,Medium,United Kingdom,Europe
-443,Data Engineer,Full-Time,Mid-Level,78526,Full-Remote,Medium,United Kingdom,Europe
-444,Data Scientist,Full-Time,Lower-Middle,215300,In-Person,Large,United States,North America
-445,Data Engineer,Full-Time,Mid-Level,76940,Full-Remote,Medium,Greece,Europe
-446,Data Engineer,Full-Time,Lower-Middle,209100,Full-Remote,Large,United States,North America
-447,Data Engineer,Full-Time,Lower-Middle,154600,Full-Remote,Large,United States,North America
-448,Data Engineer,Full-Time,Lower-Middle,180000,Full-Remote,Medium,United States,North America
-449,ML Engineer,Full-Time,Entry-Level,21983,Full-Remote,Large,Portugal,Europe
-450,Data Engineer,Full-Time,Lower-Middle,80000,Full-Remote,Medium,United States,North America
-451,Machine Learning Developer,Full-Time,Mid-Level,78791,Full-Remote,Medium,Canada,North America
-452,Director of Data Science,Full-Time,Executive-Level,196979,Hybrid,Large,Canada,North America
-453,Machine Learning Engineer,Full-Time,Mid-Level,120000,Full-Remote,Small,United States,North America
-454,Computer Vision Engineer,Full-Time,Entry-Level,125000,In-Person,Medium,United States,North America
-455,NLP Engineer,Full-Time,Mid-Level,37236,Hybrid,Large,United States,North America
-456,Data Engineer,Full-Time,Lower-Middle,105000,Full-Remote,Medium,United States,North America
-457,Lead Machine Learning Engineer,Full-Time,Lower-Middle,87932,In-Person,Medium,Germany,Europe
-458,Business Data Analyst,Full-Time,Mid-Level,18442,Full-Remote,Medium,India,Asia
-459,Data Scientist,Full-Time,Mid-Level,31615,Full-Remote,Large,India,Asia
-460,Machine Learning Infrastructure Engineer,Full-Time,Mid-Level,58255,Hybrid,Large,Portugal,Europe
-461,Financial Data Analyst,Full-Time,Entry-Level,100000,Hybrid,Large,United States,North America
-462,Data Engineer,Part-Time,Mid-Level,54957,Hybrid,Large,Germany,Europe
-463,Data Scientist,Full-Time,Entry-Level,18442,Full-Remote,Medium,India,Asia
-464,Principal Data Scientist,Full-Time,Lower-Middle,162674,Full-Remote,Medium,Germany,Europe
-465,Data Engineer,Full-Time,Entry-Level,120000,Full-Remote,Medium,United States,North America
-466,Research Scientist,Full-Time,Lower-Middle,144000,Hybrid,Large,United States,North America
-467,Data Scientist,Full-Time,Lower-Middle,104890,Full-Remote,Medium,United States,North America
-468,Data Engineer,Full-Time,Lower-Middle,100000,Full-Remote,Medium,United States,North America
-469,Data Scientist,Full-Time,Lower-Middle,140000,Full-Remote,Medium,United States,North America
-470,Data Analyst,Full-Time,Mid-Level,135000,Full-Remote,Medium,United States,North America
-471,Data Analyst,Full-Time,Mid-Level,50000,Full-Remote,Medium,United States,North America
-472,Data Scientist,Full-Time,Lower-Middle,220000,Full-Remote,Medium,United States,North America
-473,Data Scientist,Full-Time,Lower-Middle,140000,Full-Remote,Medium,United States,North America
-474,Data Scientist,Full-Time,Mid-Level,183228,In-Person,Medium,United Kingdom,Europe
-475,Data Scientist,Full-Time,Mid-Level,91614,In-Person,Medium,United Kingdom,Europe
-476,Data Scientist,Full-Time,Lower-Middle,185100,Full-Remote,Medium,United States,North America
-477,Machine Learning Engineer,Full-Time,Lower-Middle,220000,Full-Remote,Medium,United States,North America
-478,Data Scientist,Full-Time,Mid-Level,200000,Full-Remote,Medium,United States,North America
-479,Data Scientist,Full-Time,Mid-Level,120000,Full-Remote,Medium,United States,North America
-480,Machine Learning Engineer,Full-Time,Lower-Middle,120000,Full-Remote,Small,United Arab Emirates,Asia
-481,Machine Learning Engineer,Full-Time,Lower-Middle,65000,Full-Remote,Small,United Arab Emirates,Asia
-482,Data Engineer,Full-Time,Executive-Level,324000,Full-Remote,Medium,United States,North America
-483,Data Engineer,Full-Time,Executive-Level,216000,Full-Remote,Medium,United States,North America
-484,Data Engineer,Full-Time,Lower-Middle,210000,Full-Remote,Medium,United States,North America
-485,Machine Learning Engineer,Full-Time,Lower-Middle,120000,Full-Remote,Medium,United States,North America
-486,Data Scientist,Full-Time,Lower-Middle,230000,Full-Remote,Medium,United States,North America
-487,Data Scientist,Part-Time,Entry-Level,100000,Hybrid,Medium,Algeria,Africa
-488,Data Scientist,Freelance,Mid-Level,100000,Full-Remote,Medium,United States,North America
-489,Applied Machine Learning Scientist,Contract,Entry-Level,31875,Full-Remote,Medium,Czech Republic,Europe
-490,Head of Data,Full-Time,Lower-Middle,200000,Full-Remote,Medium,United States,North America
-491,Principal Data Analyst,Full-Time,Mid-Level,75000,Full-Remote,Small,Canada,North America
-492,Data Scientist,Full-Time,Mid-Level,35590,Full-Remote,Large,Poland,Europe
-493,Machine Learning Developer,Full-Time,Lower-Middle,78791,Full-Remote,Medium,Canada,North America
-494,Data Scientist,Full-Time,Lower-Middle,100000,Full-Remote,Medium,United States,North America
-495,Machine Learning Scientist,Full-Time,Mid-Level,153000,Hybrid,Medium,United States,North America
-496,Data Engineer,Full-Time,Entry-Level,58035,Full-Remote,Medium,Germany,Europe
-497,Data Scientist,Full-Time,Lower-Middle,165000,Full-Remote,Medium,United States,North America
-498,Research Scientist,Full-Time,Lower-Middle,93427,Hybrid,Large,France,Europe
-499,Data Scientist,Full-Time,Entry-Level,52396,Full-Remote,Large,Canada,North America
-500,Machine Learning Engineer,Full-Time,Lower-Middle,62651,Full-Remote,Large,Netherlands,Europe
-501,Head of Data,Full-Time,Mid-Level,32974,Full-Remote,Small,Estonia,Europe
-502,Data Scientist,Full-Time,Entry-Level,40000,Full-Remote,Large,Malaysia,Asia
-503,Machine Learning Engineer,Full-Time,Mid-Level,87425,Full-Remote,Large,Australia,Oceania
-504,Data Engineer,Full-Time,Lower-Middle,115000,Full-Remote,Medium,United States,North America
-505,Data Scientist,Full-Time,Entry-Level,86703,Hybrid,Medium,Australia,Oceania
-506,Applied Machine Learning Scientist,Full-Time,Mid-Level,75000,Full-Remote,Large,United States,North America
-507,Research Scientist,Full-Time,Mid-Level,64849,In-Person,Large,Austria,Europe
-508,Research Scientist,Full-Time,Entry-Level,120000,Full-Remote,Large,United States,North America
-509,Applied Data Scientist,Full-Time,Mid-Level,157000,Full-Remote,Large,United States,North America
-510,Computer Vision Software Engineer,Full-Time,Entry-Level,150000,Full-Remote,Small,Australia,Oceania
-511,Business Data Analyst,Full-Time,Mid-Level,70912,Hybrid,Large,Canada,North America
-512,Data Engineer,Full-Time,Entry-Level,65000,Full-Remote,Small,United States,North America
-513,Machine Learning Engineer,Full-Time,Lower-Middle,71444,Full-Remote,Small,Ireland,Europe
-514,Data Analytics Engineer,Full-Time,Entry-Level,20000,In-Person,Medium,Pakistan,Asia
-515,Data Scientist,Full-Time,Mid-Level,48000,Full-Remote,Small,United States,North America
-516,Data Science Manager,Full-Time,Lower-Middle,152500,Full-Remote,Medium,United States,North America
-517,Data Engineer,Full-Time,Mid-Level,68147,Full-Remote,Medium,France,Europe
-518,Data Scientist,Full-Time,Mid-Level,122346,In-Person,Large,Switzerland,Europe
-519,Applied Data Scientist,Full-Time,Lower-Middle,380000,Full-Remote,Large,United States,North America
-520,Data Scientist,Full-Time,Mid-Level,69336,Full-Remote,Medium,Canada,North America
-521,Computer Vision Engineer,Full-Time,Entry-Level,10000,Full-Remote,Medium,Luxembourg,Europe
-522,Data Analyst,Full-Time,Mid-Level,20000,Full-Remote,Small,Greece,Europe
-523,Data Analytics Lead,Full-Time,Lower-Middle,405000,Full-Remote,Large,United States,North America
-524,Data Scientist,Full-Time,Mid-Level,135000,Full-Remote,Large,United States,North America
-525,Applied Data Scientist,Full-Time,Lower-Middle,177000,Full-Remote,Large,United States,North America
-526,Data Scientist,Full-Time,Mid-Level,78000,Full-Remote,Medium,United States,North America
-527,Data Analyst,Full-Time,Lower-Middle,135000,Full-Remote,Medium,United States,North America
-528,Data Analyst,Full-Time,Lower-Middle,100000,Full-Remote,Medium,United States,North America
-529,Data Analyst,Full-Time,Lower-Middle,90320,Full-Remote,Medium,United States,North America
-530,Data Analyst,Full-Time,Mid-Level,85000,In-Person,Medium,Canada,North America
-531,Data Analyst,Full-Time,Mid-Level,75000,In-Person,Medium,Canada,North America
-532,Machine Learning Engineer,Full-Time,Lower-Middle,214000,Full-Remote,Medium,United States,North America
-533,Machine Learning Engineer,Full-Time,Lower-Middle,192600,Full-Remote,Medium,United States,North America
-534,Data Architect,Full-Time,Lower-Middle,266400,Full-Remote,Medium,United States,North America
-535,Data Architect,Full-Time,Lower-Middle,213120,Full-Remote,Medium,United States,North America
-536,Data Analyst,Full-Time,Lower-Middle,112900,Full-Remote,Medium,United States,North America
-537,Data Engineer,Full-Time,Lower-Middle,155000,Full-Remote,Medium,United States,North America
-538,Data Scientist,Full-Time,Mid-Level,141300,In-Person,Medium,United States,North America
-539,Data Scientist,Full-Time,Mid-Level,102100,In-Person,Medium,United States,North America
-540,Data Analyst,Full-Time,Lower-Middle,115934,Full-Remote,Medium,United States,North America
-541,Data Analyst,Full-Time,Lower-Middle,81666,Full-Remote,Medium,United States,North America
-542,Data Engineer,Full-Time,Mid-Level,206699,In-Person,Medium,United States,North America
-543,Data Engineer,Full-Time,Mid-Level,99100,In-Person,Medium,United States,North America
-544,Data Engineer,Full-Time,Lower-Middle,130000,Full-Remote,Medium,United States,North America
-545,Data Engineer,Full-Time,Lower-Middle,115000,Full-Remote,Medium,United States,North America
-546,Data Engineer,Full-Time,Lower-Middle,110500,Full-Remote,Medium,United States,North America
-547,Data Engineer,Full-Time,Lower-Middle,130000,Full-Remote,Medium,United States,North America
-548,Data Analyst,Full-Time,Lower-Middle,99050,Full-Remote,Medium,United States,North America
-549,Data Engineer,Full-Time,Lower-Middle,160000,Full-Remote,Medium,United States,North America
-550,Data Scientist,Full-Time,Lower-Middle,205300,In-Person,Large,United States,North America
-551,Data Scientist,Full-Time,Lower-Middle,140400,In-Person,Large,United States,North America
-552,Data Scientist,Full-Time,Lower-Middle,176000,Full-Remote,Medium,United States,North America
-553,Data Scientist,Full-Time,Lower-Middle,144000,Full-Remote,Medium,United States,North America
-554,Data Engineer,Full-Time,Lower-Middle,200100,Full-Remote,Medium,United States,North America
-555,Data Engineer,Full-Time,Lower-Middle,160000,Full-Remote,Medium,United States,North America
-556,Data Engineer,Full-Time,Lower-Middle,145000,Full-Remote,Medium,United States,North America
-557,Data Engineer,Full-Time,Lower-Middle,70500,In-Person,Medium,United States,North America
-558,Data Scientist,Full-Time,Lower-Middle,205300,In-Person,Medium,United States,North America
-559,Data Scientist,Full-Time,Lower-Middle,140400,In-Person,Medium,United States,North America
-560,Analytics Engineer,Full-Time,Lower-Middle,205300,In-Person,Medium,United States,North America
-561,Analytics Engineer,Full-Time,Lower-Middle,184700,In-Person,Medium,United States,North America
-562,Data Engineer,Full-Time,Lower-Middle,175100,Full-Remote,Medium,United States,North America
-563,Data Engineer,Full-Time,Lower-Middle,140250,Full-Remote,Medium,United States,North America
-564,Data Analyst,Full-Time,Lower-Middle,116150,Full-Remote,Medium,United States,North America
-565,Data Engineer,Full-Time,Lower-Middle,54000,In-Person,Medium,United States,North America
-566,Data Analyst,Full-Time,Lower-Middle,170000,Full-Remote,Medium,United States,North America
-567,Data Analyst,Full-Time,Mid-Level,65438,In-Person,Medium,United Kingdom,Europe
-568,Data Analyst,Full-Time,Lower-Middle,80000,Full-Remote,Medium,United States,North America
-569,Data Scientist,Full-Time,Lower-Middle,140000,Full-Remote,Medium,United States,North America
-570,Data Scientist,Full-Time,Lower-Middle,210000,Full-Remote,Medium,United States,North America
-571,Data Scientist,Full-Time,Lower-Middle,140000,Full-Remote,Medium,United States,North America
-572,Data Analyst,Full-Time,Lower-Middle,100000,Full-Remote,Medium,United States,North America
-573,Data Analyst,Full-Time,Lower-Middle,69000,Full-Remote,Medium,United States,North America
-574,Data Scientist,Full-Time,Lower-Middle,210000,Full-Remote,Medium,United States,North America
-575,Data Scientist,Full-Time,Lower-Middle,140000,Full-Remote,Medium,United States,North America
-576,Data Scientist,Full-Time,Lower-Middle,210000,Full-Remote,Medium,United States,North America
-577,Data Analyst,Full-Time,Lower-Middle,150075,Full-Remote,Medium,United States,North America
-578,Data Engineer,Full-Time,Lower-Middle,100000,Full-Remote,Medium,United States,North America
-579,Data Engineer,Full-Time,Lower-Middle,25000,Full-Remote,Medium,United States,North America
-580,Data Analyst,Full-Time,Lower-Middle,126500,Full-Remote,Medium,United States,North America
-581,Data Analyst,Full-Time,Lower-Middle,106260,Full-Remote,Medium,United States,North America
-582,Data Engineer,Full-Time,Lower-Middle,220110,Full-Remote,Medium,United States,North America
-583,Data Engineer,Full-Time,Lower-Middle,160080,Full-Remote,Medium,United States,North America
-584,Data Analyst,Full-Time,Lower-Middle,105000,Full-Remote,Medium,United States,North America
-585,Data Analyst,Full-Time,Lower-Middle,110925,Full-Remote,Medium,United States,North America
-586,Data Analyst,Full-Time,Mid-Level,45807,In-Person,Medium,United Kingdom,Europe
-587,Data Scientist,Full-Time,Lower-Middle,140000,Full-Remote,Medium,United States,North America
-588,Data Analyst,Full-Time,Lower-Middle,99000,In-Person,Medium,United States,North America
-589,Data Analyst,Full-Time,Lower-Middle,60000,Full-Remote,Medium,United States,North America
-590,Data Architect,Full-Time,Lower-Middle,192564,Full-Remote,Medium,United States,North America
-591,Data Architect,Full-Time,Lower-Middle,144854,Full-Remote,Medium,United States,North America
-592,Data Scientist,Full-Time,Lower-Middle,230000,Full-Remote,Medium,United States,North America
-593,Data Scientist,Full-Time,Lower-Middle,150000,Full-Remote,Medium,United States,North America
-594,Data Analytics Manager,Full-Time,Lower-Middle,150260,Full-Remote,Medium,United States,North America
-595,Data Analytics Manager,Full-Time,Lower-Middle,109280,Full-Remote,Medium,United States,North America
-596,Data Scientist,Full-Time,Lower-Middle,210000,Full-Remote,Medium,United States,North America
-597,Data Analyst,Full-Time,Lower-Middle,170000,Full-Remote,Medium,United States,North America
-598,Data Scientist,Full-Time,Mid-Level,160000,Full-Remote,Medium,United States,North America
-599,Data Scientist,Full-Time,Mid-Level,130000,Full-Remote,Medium,United States,North America
-600,Data Analyst,Full-Time,Entry-Level,67000,In-Person,Medium,Canada,North America
-601,Data Analyst,Full-Time,Entry-Level,52000,In-Person,Medium,Canada,North America
-602,Data Engineer,Full-Time,Lower-Middle,154000,Full-Remote,Medium,United States,North America
-603,Data Engineer,Full-Time,Lower-Middle,126000,Full-Remote,Medium,United States,North America
-604,Data Analyst,Full-Time,Lower-Middle,129000,In-Person,Medium,United States,North America
-605,Data Analyst,Full-Time,Lower-Middle,150000,Full-Remote,Medium,United States,North America
-606,AI Scientist,Full-Time,Mid-Level,200000,Full-Remote,Large,United States,North America
+job_title,employment_type,experience_level,salary,remote_ratio,company_size,company_location,continent
+Data Scientist,Full-Time,Mid-Level,79833,In-Person,Large,Germany,Europe
+Machine Learning Scientist,Full-Time,Senior-Level,260000,In-Person,Small,Japan,Asia
+Big Data Engineer,Full-Time,Senior-Level,109024,Hybrid,Medium,United Kingdom,Europe
+Product Data Analyst,Full-Time,Mid-Level,20000,In-Person,Small,Honduras,North America
+Machine Learning Engineer,Full-Time,Senior-Level,150000,Hybrid,Large,United States of America,North America
+Data Analyst,Full-Time,Entry-Level,72000,Full-Remote,Large,United States of America,North America
+Lead Data Scientist,Full-Time,Senior-Level,190000,Full-Remote,Small,United States of America,North America
+Data Scientist,Full-Time,Mid-Level,35735,Hybrid,Large,Hungary,Europe
+Business Data Analyst,Full-Time,Mid-Level,135000,Full-Remote,Large,United States of America,North America
+Lead Data Engineer,Full-Time,Senior-Level,125000,Hybrid,Small,New Zealand,Oceania
+Data Scientist,Full-Time,Entry-Level,51321,In-Person,Small,France,Europe
+Data Scientist,Full-Time,Mid-Level,40481,In-Person,Large,India,Asia
+Data Scientist,Full-Time,Entry-Level,39916,In-Person,Medium,France,Europe
+Lead Data Analyst,Full-Time,Mid-Level,87000,Full-Remote,Large,United States of America,North America
+Data Analyst,Full-Time,Mid-Level,85000,Full-Remote,Large,United States of America,North America
+Data Analyst,Full-Time,Mid-Level,8000,Hybrid,Large,Pakistan,Asia
+Data Engineer,Full-Time,Entry-Level,41689,Full-Remote,Small,Japan,Asia
+Big Data Engineer,Full-Time,Senior-Level,114047,Full-Remote,Small,United Kingdom,Europe
+Data Science Consultant,Full-Time,Entry-Level,5707,Hybrid,Medium,India,Asia
+Lead Data Engineer,Full-Time,Mid-Level,56000,Full-Remote,Medium,United States of America,North America
+Machine Learning Engineer,Full-Time,Mid-Level,43331,In-Person,Medium,China,Asia
+Product Data Analyst,Full-Time,Mid-Level,6072,Full-Remote,Large,India,Asia
+Data Engineer,Full-Time,Senior-Level,47899,Hybrid,Large,Greece,Europe
+BI Data Analyst,Full-Time,Mid-Level,98000,In-Person,Medium,United States of America,North America
+Lead Data Scientist,Full-Time,Mid-Level,115000,In-Person,Large,United Arab Emirates,Asia
+Director of Data Science,Full-Time,Executive-Level,325000,Full-Remote,Large,United States of America,North America
+Research Scientist,Full-Time,Entry-Level,42000,Hybrid,Large,Netherlands,Europe
+Data Engineer,Full-Time,Senior-Level,33511,In-Person,Small,Mexico,North America
+Business Data Analyst,Contract,Entry-Level,100000,Full-Remote,Large,United States of America,North America
+Machine Learning Manager,Full-Time,Senior-Level,117104,Hybrid,Large,Canada,North America
+Data Engineering Manager,Full-Time,Mid-Level,59303,Full-Remote,Small,Germany,Europe
+Big Data Engineer,Full-Time,Entry-Level,70000,Full-Remote,Large,United States of America,North America
+Data Scientist,Full-Time,Senior-Level,68428,Full-Remote,Large,United States of America,North America
+Research Scientist,Full-Time,Mid-Level,450000,In-Person,Medium,United States of America,North America
+Data Analyst,Full-Time,Mid-Level,46759,Hybrid,Large,France,Europe
+Data Engineer,Full-Time,Mid-Level,74130,Hybrid,Large,Austria,Europe
+Data Science Consultant,Full-Time,Mid-Level,103000,Full-Remote,Large,United States of America,North America
+Machine Learning Engineer,Full-Time,Entry-Level,250000,Hybrid,Large,United States of America,North America
+Data Analyst,Full-Time,Entry-Level,10000,Full-Remote,Small,Nigeria,Africa
+Machine Learning Engineer,Full-Time,Entry-Level,138000,Full-Remote,Small,United States of America,North America
+Data Scientist,Full-Time,Mid-Level,45760,Full-Remote,Small,United States of America,North America
+Data Engineering Manager,Full-Time,Executive-Level,79833,Hybrid,Large,Spain,Europe
+Machine Learning Infrastructure Engineer,Full-Time,Mid-Level,50180,In-Person,Medium,Portugal,Europe
+Data Engineer,Full-Time,Mid-Level,106000,Full-Remote,Large,United States of America,North America
+Data Engineer,Full-Time,Mid-Level,112872,Hybrid,Large,United Kingdom,Europe
+ML Engineer,Part-Time,Entry-Level,15966,Full-Remote,Small,Germany,Europe
+Data Scientist,Full-Time,Mid-Level,76958,Full-Remote,Small,United Kingdom,Europe
+Data Engineer,Full-Time,Senior-Level,188000,Full-Remote,Large,United States of America,North America
+Data Scientist,Full-Time,Mid-Level,105000,Full-Remote,Large,United States of America,North America
+Data Engineer,Full-Time,Mid-Level,70139,Hybrid,Large,France,Europe
+Data Analyst,Full-Time,Entry-Level,6072,In-Person,Small,India,Asia
+Data Analyst,Full-Time,Entry-Level,91000,Full-Remote,Large,United States of America,North America
+AI Scientist,Full-Time,Entry-Level,45896,Hybrid,Small,Denmark,Europe
+Data Engineer,Full-Time,Entry-Level,54742,Full-Remote,Large,Germany,Europe
+Computer Vision Engineer,Freelance,Senior-Level,60000,Full-Remote,Small,United States of America,North America
+Principal Data Scientist,Full-Time,Senior-Level,148261,Full-Remote,Medium,Germany,Europe
+Data Scientist,Full-Time,Mid-Level,38776,Full-Remote,Medium,Spain,Europe
+Data Scientist,Full-Time,Mid-Level,118000,Full-Remote,Medium,United States of America,North America
+Data Scientist,Full-Time,Senior-Level,120000,Hybrid,Large,United States of America,North America
+Data Scientist,Full-Time,Mid-Level,138350,Full-Remote,Medium,United States of America,North America
+Data Engineer,Full-Time,Mid-Level,110000,Full-Remote,Large,United States of America,North America
+Data Engineer,Full-Time,Mid-Level,130800,Full-Remote,Medium,United States of America,North America
+Data Scientist,Part-Time,Entry-Level,21669,Hybrid,Small,Italy,Europe
+Data Scientist,Full-Time,Senior-Level,412000,Full-Remote,Large,United States of America,North America
+Machine Learning Engineer,Full-Time,Senior-Level,45618,Full-Remote,Small,Croatia,Europe
+Data Scientist,Full-Time,Entry-Level,62726,Hybrid,Small,Germany,Europe
+Data Scientist,Full-Time,Entry-Level,49268,In-Person,Small,Germany,Europe
+Data Science Manager,Full-Time,Senior-Level,190200,Full-Remote,Medium,United States of America,North America
+Data Scientist,Full-Time,Entry-Level,105000,Full-Remote,Small,United States of America,North America
+Data Scientist,Full-Time,Senior-Level,91237,In-Person,Small,Austria,Europe
+Data Scientist,Full-Time,Mid-Level,62726,Hybrid,Small,Luxembourg,Europe
+Data Scientist,Full-Time,Mid-Level,42197,Hybrid,Small,France,Europe
+Research Scientist,Full-Time,Entry-Level,82528,Hybrid,Large,United Kingdom,Europe
+BI Data Analyst,Full-Time,Executive-Level,150000,Full-Remote,Large,United States of America,North America
+Head of Data,Full-Time,Executive-Level,235000,Full-Remote,Large,United States of America,North America
+Data Scientist,Full-Time,Senior-Level,53192,Hybrid,Large,France,Europe
+BI Data Analyst,Full-Time,Mid-Level,100000,Full-Remote,Medium,United States of America,North America
+3D Computer Vision Researcher,Part-Time,Mid-Level,5409,Hybrid,Medium,India,Asia
+ML Engineer,Contract,Mid-Level,270000,Full-Remote,Large,United States of America,North America
+Data Analyst,Full-Time,Entry-Level,80000,Full-Remote,Medium,United States of America,North America
+Data Analytics Engineer,Full-Time,Senior-Level,79197,Full-Remote,Large,Germany,Europe
+Data Engineer,Full-Time,Mid-Level,140000,Full-Remote,Large,United States of America,North America
+Applied Data Scientist,Full-Time,Mid-Level,54238,Hybrid,Large,Canada,North America
+Machine Learning Engineer,Full-Time,Mid-Level,47282,Full-Remote,Small,Spain,Europe
+Director of Data Science,Full-Time,Executive-Level,153667,Full-Remote,Large,Poland,Europe
+Data Engineer,Full-Time,Mid-Level,28476,Full-Remote,Large,Poland,Europe
+Data Analyst,Full-Time,Entry-Level,59102,Hybrid,Medium,France,Europe
+Data Analytics Engineer,Full-Time,Mid-Level,110000,Full-Remote,Large,United States of America,North America
+Lead Data Analyst,Full-Time,Senior-Level,170000,Full-Remote,Large,United States of America,North America
+Data Analyst,Full-Time,Senior-Level,80000,Full-Remote,Small,United States of America,North America
+Marketing Data Analyst,Full-Time,Senior-Level,88654,Full-Remote,Large,Denmark,Europe
+Data Science Consultant,Full-Time,Entry-Level,76833,Full-Remote,Small,Germany,Europe
+Lead Data Analyst,Full-Time,Mid-Level,19609,Full-Remote,Large,India,Asia
+Lead Data Engineer,Full-Time,Senior-Level,276000,In-Person,Large,United States of America,North America
+Data Scientist,Full-Time,Entry-Level,29751,Hybrid,Large,India,Asia
+Cloud Data Engineer,Full-Time,Mid-Level,89294,Hybrid,Large,Singapore,Asia
+AI Scientist,Part-Time,Entry-Level,12000,Full-Remote,Small,United States of America,North America
+Financial Data Analyst,Full-Time,Mid-Level,450000,Full-Remote,Large,United States of America,North America
+Computer Vision Software Engineer,Full-Time,Entry-Level,70000,Full-Remote,Medium,United States of America,North America
+Computer Vision Software Engineer,Full-Time,Mid-Level,95746,Full-Remote,Small,United States of America,North America
+Data Analyst,Full-Time,Mid-Level,75000,In-Person,Large,United States of America,North America
+Data Engineer,Full-Time,Senior-Level,150000,Full-Remote,Large,United States of America,North America
+BI Data Analyst,Full-Time,Mid-Level,36259,Hybrid,Large,United States of America,North America
+Data Analyst,Full-Time,Mid-Level,62000,In-Person,Large,United States of America,North America
+Data Scientist,Full-Time,Mid-Level,73000,In-Person,Large,United States of America,North America
+Data Analyst,Full-Time,Mid-Level,51519,Hybrid,Large,United Kingdom,Europe
+Research Scientist,Full-Time,Mid-Level,187442,Full-Remote,Large,Canada,North America
+Data Engineer,Full-Time,Senior-Level,115000,Full-Remote,Small,United States of America,North America
+Data Engineer,Full-Time,Senior-Level,150000,Full-Remote,Medium,United States of America,North America
+Data Engineer,Full-Time,Entry-Level,30428,Full-Remote,Large,India,Asia
+Machine Learning Engineer,Full-Time,Senior-Level,94564,Hybrid,Large,Germany,Europe
+Director of Data Engineering,Full-Time,Senior-Level,113476,Full-Remote,Medium,United Kingdom,Europe
+Lead Data Engineer,Full-Time,Senior-Level,103160,Full-Remote,Small,United Kingdom,Europe
+AI Scientist,Part-Time,Entry-Level,12000,Full-Remote,Medium,United States of America,North America
+Data Engineer,Full-Time,Mid-Level,45391,Full-Remote,Large,Netherlands,Europe
+Machine Learning Scientist,Full-Time,Entry-Level,225000,Full-Remote,Large,United States of America,North America
+Data Scientist,Full-Time,Mid-Level,50000,Full-Remote,Large,Nigeria,Africa
+Data Science Engineer,Full-Time,Mid-Level,40189,Full-Remote,Medium,Greece,Europe
+Data Analyst,Full-Time,Entry-Level,90000,Full-Remote,Small,United States of America,North America
+Data Engineer,Full-Time,Mid-Level,200000,Full-Remote,Large,United States of America,North America
+Big Data Engineer,Full-Time,Mid-Level,60000,Hybrid,Medium,Romania,Europe
+Principal Data Engineer,Full-Time,Senior-Level,200000,Full-Remote,Medium,United States of America,North America
+Data Analyst,Full-Time,Entry-Level,50000,Full-Remote,Medium,United States of America,North America
+Applied Data Scientist,Full-Time,Entry-Level,110037,In-Person,Large,United Kingdom,Europe
+Data Analyst,Part-Time,Entry-Level,10354,Hybrid,Medium,Spain,Europe
+Principal Data Scientist,Full-Time,Mid-Level,151000,Full-Remote,Large,United States of America,North America
+Machine Learning Scientist,Full-Time,Senior-Level,120000,Hybrid,Small,United States of America,North America
+Data Scientist,Full-Time,Mid-Level,9466,In-Person,Small,India,Asia
+Machine Learning Engineer,Full-Time,Entry-Level,20000,Full-Remote,Small,India,Asia
+Lead Data Scientist,Full-Time,Senior-Level,40570,Hybrid,Large,India,Asia
+Machine Learning Developer,Full-Time,Entry-Level,100000,Hybrid,Small,Iraq,Asia
+Data Scientist,Full-Time,Entry-Level,49646,Hybrid,Medium,France,Europe
+Applied Machine Learning Scientist,Full-Time,Mid-Level,38400,Full-Remote,Medium,United States of America,North America
+Computer Vision Engineer,Full-Time,Senior-Level,24000,Full-Remote,Medium,Brazil,South America
+Data Scientist,Full-Time,Entry-Level,100000,In-Person,Small,United States of America,North America
+Data Analyst,Full-Time,Mid-Level,90000,Full-Remote,Medium,United States of America,North America
+ML Engineer,Full-Time,Mid-Level,63711,Hybrid,Small,Japan,Asia
+ML Engineer,Full-Time,Mid-Level,77364,Hybrid,Small,Japan,Asia
+Principal Data Scientist,Full-Time,Senior-Level,220000,In-Person,Large,United States of America,North America
+Data Scientist,Full-Time,Entry-Level,80000,Full-Remote,Medium,United States of America,North America
+Data Analyst,Full-Time,Mid-Level,135000,Full-Remote,Large,United States of America,North America
+Data Science Manager,Full-Time,Senior-Level,240000,In-Person,Large,United States of America,North America
+Data Engineering Manager,Full-Time,Senior-Level,150000,In-Person,Large,United States of America,North America
+Data Scientist,Full-Time,Mid-Level,82500,Full-Remote,Small,United States of America,North America
+Data Engineer,Full-Time,Mid-Level,100000,Full-Remote,Large,United States of America,North America
+Machine Learning Engineer,Full-Time,Senior-Level,82744,Hybrid,Medium,Belgium,Europe
+Research Scientist,Full-Time,Mid-Level,62649,Hybrid,Medium,France,Europe
+Data Engineer,Full-Time,Mid-Level,90000,Full-Remote,Large,United States of America,North America
+Data Engineering Manager,Full-Time,Senior-Level,153000,Full-Remote,Large,United States of America,North America
+Cloud Data Engineer,Full-Time,Senior-Level,160000,Full-Remote,Small,United States of America,North America
+Director of Data Science,Full-Time,Senior-Level,168000,In-Person,Small,Japan,Asia
+Data Scientist,Full-Time,Mid-Level,150000,Full-Remote,Medium,United States of America,North America
+Data Scientist,Full-Time,Mid-Level,75774,Full-Remote,Large,Canada,North America
+Data Scientist,Full-Time,Entry-Level,13400,Full-Remote,Large,Ukraine,Europe
+Data Science Manager,Full-Time,Senior-Level,144000,Full-Remote,Large,United States of America,North America
+Data Science Engineer,Full-Time,Senior-Level,127221,Hybrid,Large,Canada,North America
+Data Scientist,Full-Time,Mid-Level,119059,Full-Remote,Medium,Israel,Asia
+Applied Machine Learning Scientist,Full-Time,Mid-Level,423000,Hybrid,Large,United States of America,North America
+Data Analytics Manager,Full-Time,Senior-Level,120000,Full-Remote,Medium,United States of America,North America
+Machine Learning Engineer,Full-Time,Entry-Level,125000,Full-Remote,Small,United States of America,North America
+Head of Data,Full-Time,Executive-Level,230000,Hybrid,Large,Russia,Europe
+Head of Data Science,Full-Time,Executive-Level,85000,In-Person,Medium,Russia,Europe
+Data Engineer,Full-Time,Mid-Level,28369,Hybrid,Large,Malta,Europe
+Data Science Consultant,Full-Time,Entry-Level,63831,Hybrid,Large,Germany,Europe
+Director of Data Science,Full-Time,Executive-Level,130026,Hybrid,Medium,Germany,Europe
+Data Specialist,Full-Time,Senior-Level,165000,Full-Remote,Large,United States of America,North America
+Data Engineer,Full-Time,Entry-Level,80000,Full-Remote,Large,United States of America,North America
+Director of Data Science,Full-Time,Executive-Level,250000,In-Person,Large,United States of America,North America
+BI Data Analyst,Full-Time,Entry-Level,55000,Hybrid,Small,United States of America,North America
+Data Architect,Full-Time,Mid-Level,150000,Full-Remote,Large,United States of America,North America
+Data Architect,Full-Time,Mid-Level,170000,Full-Remote,Large,United States of America,North America
+Data Engineer,Full-Time,Mid-Level,82528,Full-Remote,Large,United Kingdom,Europe
+Data Analyst,Full-Time,Entry-Level,60000,Full-Remote,Small,United States of America,North America
+Principal Data Scientist,Full-Time,Senior-Level,235000,Full-Remote,Large,United States of America,North America
+Research Scientist,Full-Time,Senior-Level,60757,Hybrid,Large,Portugal,Europe
+Data Engineering Manager,Full-Time,Senior-Level,174000,Full-Remote,Large,United States of America,North America
+Data Scientist,Full-Time,Mid-Level,2859,In-Person,Small,Mexico,North America
+Data Scientist,Full-Time,Mid-Level,40038,Full-Remote,Large,Chile,South America
+Machine Learning Engineer,Full-Time,Entry-Level,81000,Hybrid,Small,United States of America,North America
+Data Scientist,Full-Time,Mid-Level,5679,Full-Remote,Small,United States of America,North America
+Big Data Engineer,Full-Time,Mid-Level,22611,In-Person,Large,India,Asia
+Data Scientist,Full-Time,Mid-Level,90734,Hybrid,Large,Germany,Europe
+Data Engineer,Full-Time,Mid-Level,26005,In-Person,Large,United States of America,North America
+Finance Data Analyst,Full-Time,Senior-Level,61896,Hybrid,Large,United Kingdom,Europe
+Machine Learning Scientist,Freelance,Mid-Level,12000,Hybrid,Medium,Pakistan,Asia
+Data Engineer,Full-Time,Mid-Level,4000,Full-Remote,Medium,Iran,Asia
+Data Analytics Engineer,Full-Time,Senior-Level,50000,Full-Remote,Medium,United Kingdom,Europe
+Data Science Consultant,Full-Time,Executive-Level,69741,Full-Remote,Small,Spain,Europe
+Data Engineer,Full-Time,Senior-Level,76833,Hybrid,Small,United Kingdom,Europe
+Machine Learning Engineer,Full-Time,Mid-Level,74000,Hybrid,Small,Japan,Asia
+Data Science Manager,Full-Time,Senior-Level,152000,Full-Remote,Large,France,Europe
+Machine Learning Engineer,Full-Time,Entry-Level,21844,Hybrid,Medium,Colombia,South America
+Big Data Engineer,Full-Time,Mid-Level,18000,In-Person,Small,Moldova,Europe
+Data Science Manager,Full-Time,Senior-Level,174000,Full-Remote,Large,United States of America,North America
+Research Scientist,Full-Time,Senior-Level,96113,Hybrid,Large,Canada,North America
+Data Scientist,Full-Time,Mid-Level,147000,Hybrid,Large,United States of America,North America
+BI Data Analyst,Full-Time,Entry-Level,9272,Full-Remote,Small,Kenya,Africa
+Machine Learning Engineer,Full-Time,Senior-Level,24342,Full-Remote,Large,India,Asia
+Data Science Manager,Full-Time,Senior-Level,54094,Hybrid,Large,United States of America,North America
+Data Science Consultant,Full-Time,Entry-Level,90000,Full-Remote,Small,United States of America,North America
+Data Scientist,Full-Time,Mid-Level,61467,Hybrid,Medium,Austria,Europe
+Machine Learning Infrastructure Engineer,Full-Time,Senior-Level,195000,Full-Remote,Medium,United States of America,North America
+Data Scientist,Full-Time,Mid-Level,37825,Full-Remote,Large,Spain,Europe
+Research Scientist,Full-Time,Senior-Level,50000,Full-Remote,Small,United States of America,North America
+Data Scientist,Full-Time,Mid-Level,160000,Full-Remote,Large,United States of America,North America
+Data Scientist,Full-Time,Mid-Level,12901,In-Person,Small,Brazil,South America
+Machine Learning Engineer,Full-Time,Senior-Level,200000,Full-Remote,Large,United States of America,North America
+Data Engineer,Full-Time,Senior-Level,165000,In-Person,Medium,United States of America,North America
+Data Engineer,Freelance,Mid-Level,20000,In-Person,Large,United States of America,North America
+Data Analytics Manager,Full-Time,Senior-Level,120000,In-Person,Large,United States of America,North America
+Machine Learning Engineer,Full-Time,Mid-Level,24823,Hybrid,Large,Slovenia,Europe
+Research Scientist,Full-Time,Mid-Level,56738,Hybrid,Small,France,Europe
+Data Engineer,Full-Time,Mid-Level,66022,Hybrid,Small,United Kingdom,Europe
+Big Data Engineer,Full-Time,Entry-Level,5882,In-Person,Large,Switzerland,Europe
+Machine Learning Engineer,Full-Time,Entry-Level,24823,Hybrid,Medium,Germany,Europe
+Principal Data Engineer,Full-Time,Senior-Level,185000,Full-Remote,Large,United States of America,North America
+Computer Vision Engineer,Part-Time,Entry-Level,28609,Hybrid,Small,Denmark,Europe
+Data Scientist,Full-Time,Mid-Level,90734,Hybrid,Large,Germany,Europe
+Machine Learning Engineer,Full-Time,Mid-Level,88654,Full-Remote,Medium,Belgium,Europe
+Data Analytics Manager,Full-Time,Senior-Level,140000,Full-Remote,Large,United States of America,North America
+Machine Learning Engineer,Full-Time,Mid-Level,46597,Full-Remote,Large,Poland,Europe
+Data Scientist,Full-Time,Mid-Level,116914,Hybrid,Large,United Kingdom,Europe
+Data Scientist,Full-Time,Mid-Level,33808,In-Person,Medium,India,Asia
+Data Scientist,Full-Time,Mid-Level,56256,Hybrid,Large,United Kingdom,Europe
+Machine Learning Scientist,Full-Time,Senior-Level,225000,Full-Remote,Large,Canada,North America
+Principal Data Scientist,Contract,Executive-Level,416000,Full-Remote,Small,United States of America,North America
+Data Scientist,Full-Time,Senior-Level,87738,Full-Remote,Small,Canada,North America
+Data Scientist,Full-Time,Mid-Level,88654,Hybrid,Large,Germany,Europe
+Data Scientist,Full-Time,Senior-Level,135000,In-Person,Large,United States of America,North America
+Data Analyst,Full-Time,Senior-Level,71786,Full-Remote,Medium,Canada,North America
+Big Data Engineer,Full-Time,Entry-Level,16228,Full-Remote,Large,India,Asia
+ML Engineer,Full-Time,Senior-Level,256000,Full-Remote,Small,United States of America,North America
+Director of Data Engineering,Full-Time,Senior-Level,200000,Full-Remote,Large,United States of America,North America
+Data Analyst,Full-Time,Senior-Level,200000,Full-Remote,Large,United States of America,North America
+Data Architect,Full-Time,Mid-Level,180000,Full-Remote,Large,United States of America,North America
+Head of Data Science,Full-Time,Mid-Level,110000,In-Person,Small,United States of America,North America
+Research Scientist,Full-Time,Mid-Level,63810,Full-Remote,Medium,Canada,North America
+Data Scientist,Full-Time,Mid-Level,46809,Full-Remote,Medium,Spain,Europe
+Data Scientist,Full-Time,Entry-Level,4000,In-Person,Medium,Vietnam,Asia
+Data Engineer,Full-Time,Entry-Level,21637,Hybrid,Medium,India,Asia
+Data Scientist,Full-Time,Senior-Level,103691,Full-Remote,Large,Canada,North America
+Data Analyst,Full-Time,Mid-Level,80000,Full-Remote,Large,United States of America,North America
+Data Engineer,Full-Time,Mid-Level,110000,Full-Remote,Large,United States of America,North America
+Data Scientist,Full-Time,Senior-Level,165000,Full-Remote,Large,United States of America,North America
+AI Scientist,Full-Time,Entry-Level,18053,Full-Remote,Small,American Samoa,Oceania
+Data Engineer,Full-Time,Mid-Level,72212,Hybrid,Large,United Kingdom,Europe
+Data Scientist,Full-Time,Entry-Level,36643,Hybrid,Large,France,Europe
+Data Engineer,Full-Time,Mid-Level,12103,In-Person,Medium,Turkey,Asia
+Data Engineer,Full-Time,Senior-Level,96282,Hybrid,Large,United Kingdom,Europe
+Principal Data Analyst,Full-Time,Senior-Level,170000,Full-Remote,Medium,United States of America,North America
+Data Scientist,Full-Time,Mid-Level,115000,Hybrid,Large,United States of America,North America
+Data Scientist,Full-Time,Entry-Level,90000,Full-Remote,Small,United States of America,North America
+Principal Data Engineer,Full-Time,Executive-Level,600000,Full-Remote,Large,United States of America,North America
+Data Scientist,Full-Time,Entry-Level,28399,Full-Remote,Medium,India,Asia
+Data Analyst,Full-Time,Mid-Level,93000,Full-Remote,Large,United States of America,North America
+Big Data Architect,Full-Time,Senior-Level,99703,Hybrid,Medium,Canada,North America
+Data Engineer,Full-Time,Mid-Level,200000,Full-Remote,Large,United States of America,North America
+Principal Data Scientist,Full-Time,Senior-Level,173762,Full-Remote,Medium,Germany,Europe
+Machine Learning Engineer,Full-Time,Senior-Level,185000,Hybrid,Large,United States of America,North America
+Director of Data Science,Full-Time,Executive-Level,141846,In-Person,Large,Germany,Europe
+Data Scientist,Full-Time,Mid-Level,130000,Hybrid,Large,United States of America,North America
+Data Analyst,Full-Time,Senior-Level,63831,Hybrid,Large,Germany,Europe
+Data Scientist,Full-Time,Mid-Level,16904,Full-Remote,Small,India,Asia
+Machine Learning Engineer,Full-Time,Senior-Level,66265,In-Person,Large,India,Asia
+Data Scientist,Full-Time,Mid-Level,25532,Full-Remote,Small,Germany,Europe
+Lead Data Engineer,Full-Time,Senior-Level,160000,Hybrid,Small,United States of America,North America
+Data Engineer,Full-Time,Mid-Level,93150,In-Person,Medium,United States of America,North America
+Data Engineer,Full-Time,Mid-Level,111775,In-Person,Medium,United States of America,North America
+Data Engineer,Full-Time,Mid-Level,28016,Full-Remote,Medium,Turkey,Asia
+Data Engineer,Full-Time,Entry-Level,65013,Hybrid,Medium,Germany,Europe
+Data Engineer,Full-Time,Entry-Level,72500,Full-Remote,Large,United States of America,North America
+Computer Vision Engineer,Full-Time,Senior-Level,18907,In-Person,Medium,Brazil,South America
+Data Science Consultant,Full-Time,Entry-Level,76833,In-Person,Large,Germany,Europe
+Machine Learning Engineer,Full-Time,Entry-Level,85000,Full-Remote,Small,Germany,Europe
+Data Scientist,Full-Time,Senior-Level,77684,Hybrid,Medium,France,Europe
+Data Scientist,Full-Time,Entry-Level,100000,Full-Remote,Medium,United States of America,North America
+Data Scientist,Full-Time,Entry-Level,58000,Hybrid,Large,United States of America,North America
+AI Scientist,Full-Time,Senior-Level,55000,Full-Remote,Large,Spain,Europe
+Data Scientist,Full-Time,Senior-Level,20171,Hybrid,Large,Turkey,Asia
+Business Data Analyst,Full-Time,Entry-Level,59102,Full-Remote,Large,Luxembourg,Europe
+Data Engineer,Full-Time,Mid-Level,112000,Full-Remote,Large,United States of America,North America
+Research Scientist,Full-Time,Entry-Level,100000,In-Person,Large,China,Asia
+Data Engineer,Part-Time,Mid-Level,69741,Full-Remote,Large,Netherlands,Europe
+Staff Data Scientist,Contract,Senior-Level,105000,Full-Remote,Medium,United States of America,North America
+Research Scientist,Full-Time,Mid-Level,69999,Hybrid,Large,Czech Republic,Europe
+Data Science Manager,Full-Time,Senior-Level,94665,Hybrid,Large,India,Asia
+Head of Data,Full-Time,Senior-Level,102839,Full-Remote,Large,Slovenia,Europe
+Data Scientist,Full-Time,Mid-Level,109000,Hybrid,Large,United States of America,North America
+Machine Learning Engineer,Full-Time,Mid-Level,51064,Hybrid,Large,Italy,Europe
+Data Engineer,Full-Time,Senior-Level,135000,Full-Remote,Medium,United States of America,North America
+Data Analyst,Full-Time,Senior-Level,155000,Full-Remote,Medium,United States of America,North America
+Data Analyst,Full-Time,Senior-Level,120600,Full-Remote,Medium,United States of America,North America
+Data Scientist,Full-Time,Mid-Level,130000,In-Person,Medium,United States of America,North America
+Data Scientist,Full-Time,Mid-Level,90000,In-Person,Medium,United States of America,North America
+Data Engineer,Full-Time,Mid-Level,170000,Full-Remote,Medium,United States of America,North America
+Data Engineer,Full-Time,Mid-Level,150000,Full-Remote,Medium,United States of America,North America
+Data Analyst,Full-Time,Senior-Level,102100,Full-Remote,Medium,United States of America,North America
+Data Analyst,Full-Time,Senior-Level,84900,Full-Remote,Medium,United States of America,North America
+Data Scientist,Full-Time,Senior-Level,136620,Full-Remote,Medium,United States of America,North America
+Data Scientist,Full-Time,Senior-Level,99360,Full-Remote,Medium,United States of America,North America
+Data Scientist,Full-Time,Senior-Level,117789,In-Person,Medium,United Kingdom,Europe
+Data Scientist,Full-Time,Senior-Level,104702,In-Person,Medium,United Kingdom,Europe
+Data Scientist,Full-Time,Senior-Level,146000,Full-Remote,Medium,United States of America,North America
+Data Scientist,Full-Time,Senior-Level,123000,Full-Remote,Medium,United States of America,North America
+Data Engineer,Full-Time,Entry-Level,52351,Full-Remote,Medium,United Kingdom,Europe
+Data Analyst,Full-Time,Senior-Level,99000,In-Person,Medium,United States of America,North America
+Data Analyst,Full-Time,Senior-Level,116000,In-Person,Medium,United States of America,North America
+Data Analyst,Full-Time,Mid-Level,106260,In-Person,Medium,United States of America,North America
+Data Analyst,Full-Time,Mid-Level,126500,In-Person,Medium,United States of America,North America
+Data Engineer,Full-Time,Executive-Level,242000,Full-Remote,Medium,United States of America,North America
+Data Engineer,Full-Time,Executive-Level,200000,Full-Remote,Medium,United States of America,North America
+Data Scientist,Full-Time,Mid-Level,65438,In-Person,Medium,United Kingdom,Europe
+Data Scientist,Full-Time,Mid-Level,39263,In-Person,Medium,United Kingdom,Europe
+Data Engineer,Full-Time,Mid-Level,78526,In-Person,Medium,United Kingdom,Europe
+Data Engineer,Full-Time,Mid-Level,52351,In-Person,Medium,United Kingdom,Europe
+Data Scientist,Full-Time,Senior-Level,165220,Full-Remote,Medium,United States of America,North America
+Data Engineer,Full-Time,Entry-Level,45807,Full-Remote,Medium,United Kingdom,Europe
+Data Scientist,Full-Time,Senior-Level,120160,Full-Remote,Medium,United States of America,North America
+Data Analyst,Full-Time,Senior-Level,90320,Full-Remote,Medium,United States of America,North America
+Data Engineer,Full-Time,Senior-Level,181940,In-Person,Medium,United States of America,North America
+Data Engineer,Full-Time,Senior-Level,132320,In-Person,Medium,United States of America,North America
+Data Engineer,Full-Time,Senior-Level,220110,In-Person,Medium,United States of America,North America
+Data Engineer,Full-Time,Senior-Level,160080,In-Person,Medium,United States of America,North America
+Data Scientist,Full-Time,Senior-Level,180000,In-Person,Large,United States of America,North America
+Data Scientist,Full-Time,Senior-Level,120000,In-Person,Large,United States of America,North America
+Data Analyst,Full-Time,Senior-Level,124190,Full-Remote,Medium,United States of America,North America
+Data Analyst,Full-Time,Executive-Level,130000,Full-Remote,Medium,United States of America,North America
+Data Analyst,Full-Time,Executive-Level,110000,Full-Remote,Medium,United States of America,North America
+Data Analyst,Full-Time,Senior-Level,170000,Full-Remote,Medium,United States of America,North America
+Data Analyst,Full-Time,Mid-Level,115500,Full-Remote,Medium,United States of America,North America
+Data Analyst,Full-Time,Senior-Level,112900,Full-Remote,Medium,United States of America,North America
+Data Analyst,Full-Time,Senior-Level,90320,Full-Remote,Medium,United States of America,North America
+Data Analyst,Full-Time,Senior-Level,112900,Full-Remote,Medium,United States of America,North America
+Data Analyst,Full-Time,Senior-Level,90320,Full-Remote,Medium,United States of America,North America
+Data Engineer,Full-Time,Senior-Level,165400,Full-Remote,Medium,United States of America,North America
+Data Engineer,Full-Time,Senior-Level,132320,Full-Remote,Medium,United States of America,North America
+Data Analyst,Full-Time,Mid-Level,167000,Full-Remote,Medium,United States of America,North America
+Data Engineer,Full-Time,Senior-Level,243900,Full-Remote,Medium,United States of America,North America
+Data Analyst,Full-Time,Senior-Level,136600,Full-Remote,Medium,United States of America,North America
+Data Analyst,Full-Time,Senior-Level,109280,Full-Remote,Medium,United States of America,North America
+Data Engineer,Full-Time,Senior-Level,128875,Full-Remote,Medium,United States of America,North America
+Data Engineer,Full-Time,Senior-Level,93700,Full-Remote,Medium,United States of America,North America
+Head of Data Science,Full-Time,Executive-Level,224000,Full-Remote,Medium,United States of America,North America
+Head of Data Science,Full-Time,Executive-Level,167875,Full-Remote,Medium,United States of America,North America
+Analytics Engineer,Full-Time,Executive-Level,175000,Full-Remote,Medium,United States of America,North America
+Data Engineer,Full-Time,Senior-Level,156600,Full-Remote,Medium,United States of America,North America
+Data Engineer,Full-Time,Senior-Level,108800,In-Person,Medium,United States of America,North America
+Data Scientist,Full-Time,Senior-Level,95550,In-Person,Medium,United States of America,North America
+Data Engineer,Full-Time,Senior-Level,113000,In-Person,Large,United States of America,North America
+Data Analyst,Full-Time,Senior-Level,135000,Full-Remote,Medium,United States of America,North America
+Data Science Manager,Full-Time,Senior-Level,161342,Full-Remote,Medium,United States of America,North America
+Data Science Manager,Full-Time,Senior-Level,137141,Full-Remote,Medium,United States of America,North America
+Data Scientist,Full-Time,Senior-Level,167000,Full-Remote,Medium,United States of America,North America
+Data Scientist,Full-Time,Senior-Level,123000,Full-Remote,Medium,United States of America,North America
+Data Engineer,Full-Time,Senior-Level,78526,In-Person,Medium,United Kingdom,Europe
+Data Engineer,Full-Time,Senior-Level,65438,In-Person,Medium,United Kingdom,Europe
+Data Scientist,Full-Time,Senior-Level,150000,In-Person,Medium,United States of America,North America
+Data Scientist,Full-Time,Senior-Level,211500,Full-Remote,Medium,United States of America,North America
+Data Architect,Full-Time,Senior-Level,192400,Full-Remote,Medium,Canada,North America
+Data Architect,Full-Time,Senior-Level,90700,Full-Remote,Medium,Canada,North America
+Data Analyst,Full-Time,Senior-Level,130000,Full-Remote,Medium,Canada,North America
+Data Analyst,Full-Time,Senior-Level,61300,Full-Remote,Medium,Canada,North America
+Data Analyst,Full-Time,Senior-Level,130000,Full-Remote,Medium,Canada,North America
+Data Analyst,Full-Time,Senior-Level,61300,Full-Remote,Medium,Canada,North America
+Data Engineer,Full-Time,Senior-Level,160000,In-Person,Large,United States of America,North America
+Data Scientist,Full-Time,Senior-Level,138600,Full-Remote,Medium,United States of America,North America
+Data Engineer,Full-Time,Senior-Level,136000,In-Person,Medium,United States of America,North America
+Data Analyst,Full-Time,Mid-Level,58000,In-Person,Small,United States of America,North America
+Analytics Engineer,Full-Time,Executive-Level,135000,Full-Remote,Medium,United States of America,North America
+Data Scientist,Full-Time,Senior-Level,170000,Full-Remote,Medium,United States of America,North America
+Data Scientist,Full-Time,Senior-Level,123000,Full-Remote,Medium,United States of America,North America
+Machine Learning Engineer,Full-Time,Senior-Level,189650,In-Person,Medium,United States of America,North America
+Machine Learning Engineer,Full-Time,Senior-Level,164996,In-Person,Medium,United States of America,North America
+ETL Developer,Full-Time,Mid-Level,54957,In-Person,Medium,Greece,Europe
+ETL Developer,Full-Time,Mid-Level,54957,In-Person,Medium,Greece,Europe
+Lead Data Engineer,Full-Time,Executive-Level,118187,Full-Remote,Small,Canada,North America
+Data Analyst,Full-Time,Senior-Level,132000,In-Person,Medium,United States of America,North America
+Data Engineer,Full-Time,Senior-Level,165400,Full-Remote,Medium,United States of America,North America
+Data Architect,Full-Time,Senior-Level,208775,Full-Remote,Medium,United States of America,North America
+Data Architect,Full-Time,Senior-Level,147800,Full-Remote,Medium,United States of America,North America
+Data Engineer,Full-Time,Senior-Level,136994,Full-Remote,Medium,United States of America,North America
+Data Engineer,Full-Time,Senior-Level,101570,Full-Remote,Medium,United States of America,North America
+Data Analyst,Full-Time,Senior-Level,128875,Full-Remote,Medium,United States of America,North America
+Data Analyst,Full-Time,Senior-Level,93700,Full-Remote,Medium,United States of America,North America
+Head of Machine Learning,Full-Time,Executive-Level,79039,Hybrid,Large,India,Asia
+Data Engineer,Full-Time,Senior-Level,132320,Full-Remote,Medium,United States of America,North America
+Machine Learning Engineer,Full-Time,Entry-Level,37300,Full-Remote,Large,United Kingdom,Europe
+Data Analyst,Full-Time,Senior-Level,164000,In-Person,Medium,United States of America,North America
+Data Engineer,Full-Time,Senior-Level,155000,Full-Remote,Medium,United States of America,North America
+Machine Learning Engineer,Full-Time,Mid-Level,124333,In-Person,Medium,United Kingdom,Europe
+Machine Learning Engineer,Full-Time,Mid-Level,98158,In-Person,Medium,United Kingdom,Europe
+AI Scientist,Full-Time,Mid-Level,120000,In-Person,Medium,United States of America,North America
+Data Analyst,Full-Time,Senior-Level,112900,Full-Remote,Medium,United States of America,North America
+Data Analyst,Full-Time,Senior-Level,90320,Full-Remote,Medium,United States of America,North America
+Data Analytics Manager,Full-Time,Senior-Level,145000,Full-Remote,Medium,United States of America,North America
+Data Analytics Manager,Full-Time,Senior-Level,105400,Full-Remote,Medium,United States of America,North America
+Machine Learning Engineer,Full-Time,Mid-Level,87932,Full-Remote,Medium,Germany,Europe
+Data Engineer,Full-Time,Mid-Level,117789,In-Person,Medium,United Kingdom,Europe
+Data Scientist,Full-Time,Senior-Level,215300,Full-Remote,Large,United States of America,North America
+Data Scientist,Full-Time,Senior-Level,158200,Full-Remote,Large,United States of America,North America
+Data Engineer,Full-Time,Senior-Level,209100,Full-Remote,Large,United States of America,North America
+Data Engineer,Full-Time,Senior-Level,154600,Full-Remote,Large,United States of America,North America
+Data Analyst,Full-Time,Senior-Level,115934,In-Person,Medium,United States of America,North America
+Data Analyst,Full-Time,Senior-Level,81666,In-Person,Medium,United States of America,North America
+Data Engineer,Full-Time,Senior-Level,175000,Full-Remote,Medium,United States of America,North America
+Data Engineer,Full-Time,Mid-Level,98158,In-Person,Medium,United Kingdom,Europe
+Data Analyst,Full-Time,Mid-Level,58000,In-Person,Small,United States of America,North America
+Data Engineer,Full-Time,Senior-Level,183600,Full-Remote,Large,United States of America,North America
+Data Analyst,Full-Time,Mid-Level,52351,Full-Remote,Medium,United Kingdom,Europe
+Data Scientist,Full-Time,Senior-Level,180000,Full-Remote,Medium,United States of America,North America
+Data Scientist,Full-Time,Mid-Level,71982,In-Person,Medium,United Kingdom,Europe
+Data Scientist,Full-Time,Mid-Level,45807,In-Person,Medium,United Kingdom,Europe
+Data Engineer,Full-Time,Mid-Level,65949,Full-Remote,Medium,Greece,Europe
+Data Engineer,Full-Time,Mid-Level,49461,Full-Remote,Medium,Greece,Europe
+Data Engineer,Full-Time,Mid-Level,78526,Full-Remote,Medium,United Kingdom,Europe
+Data Engineer,Full-Time,Mid-Level,58894,Full-Remote,Medium,United Kingdom,Europe
+Data Scientist,Full-Time,Senior-Level,260000,Full-Remote,Medium,United States of America,North America
+Data Science Engineer,Full-Time,Senior-Level,60000,Full-Remote,Large,Mexico,North America
+Data Engineer,Full-Time,Mid-Level,63900,In-Person,Medium,United States of America,North America
+Machine Learning Scientist,Full-Time,Mid-Level,160000,Full-Remote,Large,United States of America,North America
+Machine Learning Scientist,Full-Time,Mid-Level,112300,Full-Remote,Large,United States of America,North America
+Data Science Manager,Full-Time,Mid-Level,241000,Full-Remote,Medium,United States of America,North America
+Data Science Manager,Full-Time,Mid-Level,159000,Full-Remote,Medium,United States of America,North America
+Data Scientist,Full-Time,Senior-Level,180000,In-Person,Medium,United States of America,North America
+Data Scientist,Full-Time,Senior-Level,80000,In-Person,Medium,United States of America,North America
+Data Engineer,Full-Time,Mid-Level,82900,In-Person,Medium,United States of America,North America
+Data Engineer,Full-Time,Senior-Level,100800,Full-Remote,Large,United States of America,North America
+Data Engineer,Full-Time,Mid-Level,49461,Full-Remote,Medium,Spain,Europe
+Data Scientist,Full-Time,Senior-Level,140400,In-Person,Large,United States of America,North America
+Data Analyst,Full-Time,Mid-Level,39263,Full-Remote,Medium,United Kingdom,Europe
+Data Analyst,Full-Time,Mid-Level,43966,Full-Remote,Medium,Spain,Europe
+Data Analyst,Full-Time,Mid-Level,32974,Full-Remote,Medium,Spain,Europe
+Data Engineer,Full-Time,Mid-Level,87932,Full-Remote,Medium,Spain,Europe
+Data Engineer,Full-Time,Mid-Level,76940,Full-Remote,Medium,Spain,Europe
+Data Engineer,Full-Time,Mid-Level,104702,Full-Remote,Medium,United Kingdom,Europe
+Data Engineer,Full-Time,Mid-Level,91614,Full-Remote,Medium,United Kingdom,Europe
+Data Engineer,Full-Time,Mid-Level,65949,Full-Remote,Medium,Spain,Europe
+Data Engineer,Full-Time,Mid-Level,87932,Full-Remote,Medium,Greece,Europe
+Machine Learning Engineer,Full-Time,Senior-Level,189650,In-Person,Medium,United States of America,North America
+Machine Learning Engineer,Full-Time,Senior-Level,164996,In-Person,Medium,United States of America,North America
+Data Analyst,Full-Time,Mid-Level,43966,Full-Remote,Medium,Greece,Europe
+Data Analyst,Full-Time,Mid-Level,32974,Full-Remote,Medium,Greece,Europe
+Data Engineer,Full-Time,Mid-Level,98158,Full-Remote,Medium,United Kingdom,Europe
+Data Engineer,Full-Time,Mid-Level,78526,Full-Remote,Medium,United Kingdom,Europe
+Data Scientist,Full-Time,Senior-Level,215300,In-Person,Large,United States of America,North America
+Data Engineer,Full-Time,Mid-Level,76940,Full-Remote,Medium,Greece,Europe
+Data Engineer,Full-Time,Senior-Level,209100,Full-Remote,Large,United States of America,North America
+Data Engineer,Full-Time,Senior-Level,154600,Full-Remote,Large,United States of America,North America
+Data Engineer,Full-Time,Senior-Level,180000,Full-Remote,Medium,United States of America,North America
+ML Engineer,Full-Time,Entry-Level,21983,Full-Remote,Large,Portugal,Europe
+Data Engineer,Full-Time,Senior-Level,80000,Full-Remote,Medium,United States of America,North America
+Machine Learning Developer,Full-Time,Mid-Level,78791,Full-Remote,Medium,Canada,North America
+Director of Data Science,Full-Time,Executive-Level,196979,Hybrid,Large,Canada,North America
+Machine Learning Engineer,Full-Time,Mid-Level,120000,Full-Remote,Small,United States of America,North America
+Computer Vision Engineer,Full-Time,Entry-Level,125000,In-Person,Medium,United States of America,North America
+NLP Engineer,Full-Time,Mid-Level,37236,Hybrid,Large,United States of America,North America
+Data Engineer,Full-Time,Senior-Level,105000,Full-Remote,Medium,United States of America,North America
+Lead Machine Learning Engineer,Full-Time,Senior-Level,87932,In-Person,Medium,Germany,Europe
+Business Data Analyst,Full-Time,Mid-Level,18442,Full-Remote,Medium,India,Asia
+Data Scientist,Full-Time,Mid-Level,31615,Full-Remote,Large,India,Asia
+Machine Learning Infrastructure Engineer,Full-Time,Mid-Level,58255,Hybrid,Large,Portugal,Europe
+Financial Data Analyst,Full-Time,Entry-Level,100000,Hybrid,Large,United States of America,North America
+Data Engineer,Part-Time,Mid-Level,54957,Hybrid,Large,Germany,Europe
+Data Scientist,Full-Time,Entry-Level,18442,Full-Remote,Medium,India,Asia
+Principal Data Scientist,Full-Time,Senior-Level,162674,Full-Remote,Medium,Germany,Europe
+Data Engineer,Full-Time,Entry-Level,120000,Full-Remote,Medium,United States of America,North America
+Research Scientist,Full-Time,Senior-Level,144000,Hybrid,Large,United States of America,North America
+Data Scientist,Full-Time,Senior-Level,104890,Full-Remote,Medium,United States of America,North America
+Data Engineer,Full-Time,Senior-Level,100000,Full-Remote,Medium,United States of America,North America
+Data Scientist,Full-Time,Senior-Level,140000,Full-Remote,Medium,United States of America,North America
+Data Analyst,Full-Time,Mid-Level,135000,Full-Remote,Medium,United States of America,North America
+Data Analyst,Full-Time,Mid-Level,50000,Full-Remote,Medium,United States of America,North America
+Data Scientist,Full-Time,Senior-Level,220000,Full-Remote,Medium,United States of America,North America
+Data Scientist,Full-Time,Senior-Level,140000,Full-Remote,Medium,United States of America,North America
+Data Scientist,Full-Time,Mid-Level,183228,In-Person,Medium,United Kingdom,Europe
+Data Scientist,Full-Time,Mid-Level,91614,In-Person,Medium,United Kingdom,Europe
+Data Scientist,Full-Time,Senior-Level,185100,Full-Remote,Medium,United States of America,North America
+Machine Learning Engineer,Full-Time,Senior-Level,220000,Full-Remote,Medium,United States of America,North America
+Data Scientist,Full-Time,Mid-Level,200000,Full-Remote,Medium,United States of America,North America
+Data Scientist,Full-Time,Mid-Level,120000,Full-Remote,Medium,United States of America,North America
+Machine Learning Engineer,Full-Time,Senior-Level,120000,Full-Remote,Small,United Arab Emirates,Asia
+Machine Learning Engineer,Full-Time,Senior-Level,65000,Full-Remote,Small,United Arab Emirates,Asia
+Data Engineer,Full-Time,Executive-Level,324000,Full-Remote,Medium,United States of America,North America
+Data Engineer,Full-Time,Executive-Level,216000,Full-Remote,Medium,United States of America,North America
+Data Engineer,Full-Time,Senior-Level,210000,Full-Remote,Medium,United States of America,North America
+Machine Learning Engineer,Full-Time,Senior-Level,120000,Full-Remote,Medium,United States of America,North America
+Data Scientist,Full-Time,Senior-Level,230000,Full-Remote,Medium,United States of America,North America
+Data Scientist,Part-Time,Entry-Level,100000,Hybrid,Medium,Algeria,Africa
+Data Scientist,Freelance,Mid-Level,100000,Full-Remote,Medium,United States of America,North America
+Applied Machine Learning Scientist,Contract,Entry-Level,31875,Full-Remote,Medium,Czech Republic,Europe
+Head of Data,Full-Time,Senior-Level,200000,Full-Remote,Medium,United States of America,North America
+Principal Data Analyst,Full-Time,Mid-Level,75000,Full-Remote,Small,Canada,North America
+Data Scientist,Full-Time,Mid-Level,35590,Full-Remote,Large,Poland,Europe
+Machine Learning Developer,Full-Time,Senior-Level,78791,Full-Remote,Medium,Canada,North America
+Data Scientist,Full-Time,Senior-Level,100000,Full-Remote,Medium,United States of America,North America
+Machine Learning Scientist,Full-Time,Mid-Level,153000,Hybrid,Medium,United States of America,North America
+Data Engineer,Full-Time,Entry-Level,58035,Full-Remote,Medium,Germany,Europe
+Data Scientist,Full-Time,Senior-Level,165000,Full-Remote,Medium,United States of America,North America
+Research Scientist,Full-Time,Senior-Level,93427,Hybrid,Large,France,Europe
+Data Scientist,Full-Time,Entry-Level,52396,Full-Remote,Large,Canada,North America
+Machine Learning Engineer,Full-Time,Senior-Level,62651,Full-Remote,Large,Netherlands,Europe
+Head of Data,Full-Time,Mid-Level,32974,Full-Remote,Small,Estonia,Europe
+Data Scientist,Full-Time,Entry-Level,40000,Full-Remote,Large,Malaysia,Asia
+Machine Learning Engineer,Full-Time,Mid-Level,87425,Full-Remote,Large,Australia,Oceania
+Data Engineer,Full-Time,Senior-Level,115000,Full-Remote,Medium,United States of America,North America
+Data Scientist,Full-Time,Entry-Level,86703,Hybrid,Medium,Australia,Oceania
+Applied Machine Learning Scientist,Full-Time,Mid-Level,75000,Full-Remote,Large,United States of America,North America
+Research Scientist,Full-Time,Mid-Level,64849,In-Person,Large,Austria,Europe
+Research Scientist,Full-Time,Entry-Level,120000,Full-Remote,Large,United States of America,North America
+Applied Data Scientist,Full-Time,Mid-Level,157000,Full-Remote,Large,United States of America,North America
+Computer Vision Software Engineer,Full-Time,Entry-Level,150000,Full-Remote,Small,Australia,Oceania
+Business Data Analyst,Full-Time,Mid-Level,70912,Hybrid,Large,Canada,North America
+Data Engineer,Full-Time,Entry-Level,65000,Full-Remote,Small,United States of America,North America
+Machine Learning Engineer,Full-Time,Senior-Level,71444,Full-Remote,Small,Ireland,Europe
+Data Analytics Engineer,Full-Time,Entry-Level,20000,In-Person,Medium,Pakistan,Asia
+Data Scientist,Full-Time,Mid-Level,48000,Full-Remote,Small,United States of America,North America
+Data Science Manager,Full-Time,Senior-Level,152500,Full-Remote,Medium,United States of America,North America
+Data Engineer,Full-Time,Mid-Level,68147,Full-Remote,Medium,France,Europe
+Data Scientist,Full-Time,Mid-Level,122346,In-Person,Large,Switzerland,Europe
+Applied Data Scientist,Full-Time,Senior-Level,380000,Full-Remote,Large,United States of America,North America
+Data Scientist,Full-Time,Mid-Level,69336,Full-Remote,Medium,Canada,North America
+Computer Vision Engineer,Full-Time,Entry-Level,10000,Full-Remote,Medium,Luxembourg,Europe
+Data Analyst,Full-Time,Mid-Level,20000,Full-Remote,Small,Greece,Europe
+Data Analytics Lead,Full-Time,Senior-Level,405000,Full-Remote,Large,United States of America,North America
+Data Scientist,Full-Time,Mid-Level,135000,Full-Remote,Large,United States of America,North America
+Applied Data Scientist,Full-Time,Senior-Level,177000,Full-Remote,Large,United States of America,North America
+Data Scientist,Full-Time,Mid-Level,78000,Full-Remote,Medium,United States of America,North America
+Data Analyst,Full-Time,Senior-Level,135000,Full-Remote,Medium,United States of America,North America
+Data Analyst,Full-Time,Senior-Level,100000,Full-Remote,Medium,United States of America,North America
+Data Analyst,Full-Time,Senior-Level,90320,Full-Remote,Medium,United States of America,North America
+Data Analyst,Full-Time,Mid-Level,85000,In-Person,Medium,Canada,North America
+Data Analyst,Full-Time,Mid-Level,75000,In-Person,Medium,Canada,North America
+Machine Learning Engineer,Full-Time,Senior-Level,214000,Full-Remote,Medium,United States of America,North America
+Machine Learning Engineer,Full-Time,Senior-Level,192600,Full-Remote,Medium,United States of America,North America
+Data Architect,Full-Time,Senior-Level,266400,Full-Remote,Medium,United States of America,North America
+Data Architect,Full-Time,Senior-Level,213120,Full-Remote,Medium,United States of America,North America
+Data Analyst,Full-Time,Senior-Level,112900,Full-Remote,Medium,United States of America,North America
+Data Engineer,Full-Time,Senior-Level,155000,Full-Remote,Medium,United States of America,North America
+Data Scientist,Full-Time,Mid-Level,141300,In-Person,Medium,United States of America,North America
+Data Scientist,Full-Time,Mid-Level,102100,In-Person,Medium,United States of America,North America
+Data Analyst,Full-Time,Senior-Level,115934,Full-Remote,Medium,United States of America,North America
+Data Analyst,Full-Time,Senior-Level,81666,Full-Remote,Medium,United States of America,North America
+Data Engineer,Full-Time,Mid-Level,206699,In-Person,Medium,United States of America,North America
+Data Engineer,Full-Time,Mid-Level,99100,In-Person,Medium,United States of America,North America
+Data Engineer,Full-Time,Senior-Level,130000,Full-Remote,Medium,United States of America,North America
+Data Engineer,Full-Time,Senior-Level,115000,Full-Remote,Medium,United States of America,North America
+Data Engineer,Full-Time,Senior-Level,110500,Full-Remote,Medium,United States of America,North America
+Data Engineer,Full-Time,Senior-Level,130000,Full-Remote,Medium,United States of America,North America
+Data Analyst,Full-Time,Senior-Level,99050,Full-Remote,Medium,United States of America,North America
+Data Engineer,Full-Time,Senior-Level,160000,Full-Remote,Medium,United States of America,North America
+Data Scientist,Full-Time,Senior-Level,205300,In-Person,Large,United States of America,North America
+Data Scientist,Full-Time,Senior-Level,140400,In-Person,Large,United States of America,North America
+Data Scientist,Full-Time,Senior-Level,176000,Full-Remote,Medium,United States of America,North America
+Data Scientist,Full-Time,Senior-Level,144000,Full-Remote,Medium,United States of America,North America
+Data Engineer,Full-Time,Senior-Level,200100,Full-Remote,Medium,United States of America,North America
+Data Engineer,Full-Time,Senior-Level,160000,Full-Remote,Medium,United States of America,North America
+Data Engineer,Full-Time,Senior-Level,145000,Full-Remote,Medium,United States of America,North America
+Data Engineer,Full-Time,Senior-Level,70500,In-Person,Medium,United States of America,North America
+Data Scientist,Full-Time,Senior-Level,205300,In-Person,Medium,United States of America,North America
+Data Scientist,Full-Time,Senior-Level,140400,In-Person,Medium,United States of America,North America
+Analytics Engineer,Full-Time,Senior-Level,205300,In-Person,Medium,United States of America,North America
+Analytics Engineer,Full-Time,Senior-Level,184700,In-Person,Medium,United States of America,North America
+Data Engineer,Full-Time,Senior-Level,175100,Full-Remote,Medium,United States of America,North America
+Data Engineer,Full-Time,Senior-Level,140250,Full-Remote,Medium,United States of America,North America
+Data Analyst,Full-Time,Senior-Level,116150,Full-Remote,Medium,United States of America,North America
+Data Engineer,Full-Time,Senior-Level,54000,In-Person,Medium,United States of America,North America
+Data Analyst,Full-Time,Senior-Level,170000,Full-Remote,Medium,United States of America,North America
+Data Analyst,Full-Time,Mid-Level,65438,In-Person,Medium,United Kingdom,Europe
+Data Analyst,Full-Time,Senior-Level,80000,Full-Remote,Medium,United States of America,North America
+Data Scientist,Full-Time,Senior-Level,140000,Full-Remote,Medium,United States of America,North America
+Data Scientist,Full-Time,Senior-Level,210000,Full-Remote,Medium,United States of America,North America
+Data Scientist,Full-Time,Senior-Level,140000,Full-Remote,Medium,United States of America,North America
+Data Analyst,Full-Time,Senior-Level,100000,Full-Remote,Medium,United States of America,North America
+Data Analyst,Full-Time,Senior-Level,69000,Full-Remote,Medium,United States of America,North America
+Data Scientist,Full-Time,Senior-Level,210000,Full-Remote,Medium,United States of America,North America
+Data Scientist,Full-Time,Senior-Level,140000,Full-Remote,Medium,United States of America,North America
+Data Scientist,Full-Time,Senior-Level,210000,Full-Remote,Medium,United States of America,North America
+Data Analyst,Full-Time,Senior-Level,150075,Full-Remote,Medium,United States of America,North America
+Data Engineer,Full-Time,Senior-Level,100000,Full-Remote,Medium,United States of America,North America
+Data Engineer,Full-Time,Senior-Level,25000,Full-Remote,Medium,United States of America,North America
+Data Analyst,Full-Time,Senior-Level,126500,Full-Remote,Medium,United States of America,North America
+Data Analyst,Full-Time,Senior-Level,106260,Full-Remote,Medium,United States of America,North America
+Data Engineer,Full-Time,Senior-Level,220110,Full-Remote,Medium,United States of America,North America
+Data Engineer,Full-Time,Senior-Level,160080,Full-Remote,Medium,United States of America,North America
+Data Analyst,Full-Time,Senior-Level,105000,Full-Remote,Medium,United States of America,North America
+Data Analyst,Full-Time,Senior-Level,110925,Full-Remote,Medium,United States of America,North America
+Data Analyst,Full-Time,Mid-Level,45807,In-Person,Medium,United Kingdom,Europe
+Data Scientist,Full-Time,Senior-Level,140000,Full-Remote,Medium,United States of America,North America
+Data Analyst,Full-Time,Senior-Level,99000,In-Person,Medium,United States of America,North America
+Data Analyst,Full-Time,Senior-Level,60000,Full-Remote,Medium,United States of America,North America
+Data Architect,Full-Time,Senior-Level,192564,Full-Remote,Medium,United States of America,North America
+Data Architect,Full-Time,Senior-Level,144854,Full-Remote,Medium,United States of America,North America
+Data Scientist,Full-Time,Senior-Level,230000,Full-Remote,Medium,United States of America,North America
+Data Scientist,Full-Time,Senior-Level,150000,Full-Remote,Medium,United States of America,North America
+Data Analytics Manager,Full-Time,Senior-Level,150260,Full-Remote,Medium,United States of America,North America
+Data Analytics Manager,Full-Time,Senior-Level,109280,Full-Remote,Medium,United States of America,North America
+Data Scientist,Full-Time,Senior-Level,210000,Full-Remote,Medium,United States of America,North America
+Data Analyst,Full-Time,Senior-Level,170000,Full-Remote,Medium,United States of America,North America
+Data Scientist,Full-Time,Mid-Level,160000,Full-Remote,Medium,United States of America,North America
+Data Scientist,Full-Time,Mid-Level,130000,Full-Remote,Medium,United States of America,North America
+Data Analyst,Full-Time,Entry-Level,67000,In-Person,Medium,Canada,North America
+Data Analyst,Full-Time,Entry-Level,52000,In-Person,Medium,Canada,North America
+Data Engineer,Full-Time,Senior-Level,154000,Full-Remote,Medium,United States of America,North America
+Data Engineer,Full-Time,Senior-Level,126000,Full-Remote,Medium,United States of America,North America
+Data Analyst,Full-Time,Senior-Level,129000,In-Person,Medium,United States of America,North America
+Data Analyst,Full-Time,Senior-Level,150000,Full-Remote,Medium,United States of America,North America
+AI Scientist,Full-Time,Mid-Level,200000,Full-Remote,Large,United States of America,North America
