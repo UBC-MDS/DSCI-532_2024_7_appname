@@ -2,8 +2,8 @@ import dash_bootstrap_components as dbc
 import pandas as pd
 import datetime
 from dash import html, dcc
+from src.data_wrangling import df
 
-df = pd.read_csv('data/clean/ds_salaries.csv')
 current_date = datetime.datetime.now().strftime("%B %d, %Y")
 
 heatmap_salary_card = dbc.Card(
