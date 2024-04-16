@@ -6,7 +6,7 @@ import sys
 import os
 sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 from src.app import app
-from data import df, geojson
+from src.data import df, geojson
 from dash.dependencies import Input, Output
 
 @app.callback(
