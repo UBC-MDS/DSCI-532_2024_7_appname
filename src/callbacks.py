@@ -6,12 +6,8 @@ import sys
 import os
 sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 from src.app import app
-from src.data_wrangling import wrangling
+from data import df, geojson
 from dash.dependencies import Input, Output
-
-df = wrangling()
-with open('data/countries.geojson') as f:
-    geojson = json.load(f)
 
 @app.callback(
     Output("heatmap_salary", "figure"),
