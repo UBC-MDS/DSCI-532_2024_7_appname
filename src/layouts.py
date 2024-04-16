@@ -2,7 +2,7 @@ import dash_bootstrap_components as dbc
 import pandas as pd
 import datetime
 from dash import html, dcc
-from src.data_wrangling import df
+from data import df
 
 current_date = datetime.datetime.now().strftime("%B %d, %Y")
 

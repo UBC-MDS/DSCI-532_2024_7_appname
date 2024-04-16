@@ -93,8 +93,8 @@ def wrangling():
     })
 
     # Write the DataFrame to CSV files
-    df.to_csv('data/raw/ds_salaries_cleaned.csv', index=False)
-    df.to_csv('data/clean/ds_salaries.csv', index=False)
+    #df.to_csv('data/raw/ds_salaries_cleaned.csv', index=False)
+    #df.to_csv('data/clean/ds_salaries.csv', index=False)
 
     return df
 
