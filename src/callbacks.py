@@ -50,15 +50,23 @@ def update_histogram_salary(selected_continents):
         filtered_df, 
         x="salary", 
         labels={
-            "count": "Count",
+            "count": "Number of Jobs",
             "salary": "Average Salary (USD)"
         }
+    )
+
+    salary_distribution.update_layout(
+        yaxis_title="Number of Jobs",
+        xaxis_title="Average Salary (USD)",
+        xaxis=dict(autorange=False, range=[0, filtered_df['salary'].max() + 10])
     )
 
     median_salary = filtered_df['salary'].median()
     salary_distribution.add_vline(x=median_salary, line_dash="dash", line_color="red", 
                                   annotation_text=f'Median Salary: ${median_salary:,.2f}', 
-                                  annotation_position="top left")
+                                  annotation_position="top",
+                                  annotation_font=dict(color="red", size=12)
+                                 )
     
     return salary_distribution
 

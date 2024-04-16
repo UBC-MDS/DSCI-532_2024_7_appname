@@ -96,6 +96,12 @@ def wrangling():
     #df.to_csv('data/raw/ds_salaries_cleaned.csv', index=False)
     #df.to_csv('data/clean/ds_salaries.csv', index=False)
 
+    #Abbreviate the really long names for bottom right bar chart
+    df['job_title'] = df['job_title'].str.replace("Machine Learning", "ML")
+    df['job_title'] = df['job_title'].str.replace("Computer Vision", "CV")
+    df['job_title'] = df['job_title'].str.replace("Engineer", "Engr.")
+    df['job_title'] = df['job_title'].str.replace("Scientist", "Sci.")
+
     return df
 
 df = wrangling()
