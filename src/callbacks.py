@@ -14,10 +14,21 @@ from dash.dependencies import Input, Output
     Input("filter-continent", "value"),
 )
 def update_heatmap_salary(selected_continents):
+    if not selected_continents:
+        empty_plot = px.choropleth_mapbox(
+            geojson=geojson,
+            locations=[],
+            featureidkey="properties.ADMIN",
+            color_continuous_scale="Viridis",
+            mapbox_style="carto-positron",
+            zoom=1, center={"lat": 38.9637, "lon": 35.2433},
+            opacity=0.5
+        )
+        empty_plot.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
+        return empty_plot
+
     filtered_df = df.copy()
-    if selected_continents:
-        filtered_df = filtered_df[filtered_df['continent'].isin(selected_continents)]
-    
+    filtered_df = filtered_df[filtered_df['continent'].isin(selected_continents)]
     df_grouped_by_company_location = filtered_df.groupby(by=['company_location'])["salary"].mean().reset_index()
     
     heatmap_plot = px.choropleth_mapbox(
