@@ -1,5 +1,6 @@
 import pandas as pd
 import json
+from os.path import exists
 
 def wrangling():
     df = pd.read_parquet('data/raw/ds_salaries.parquet')
