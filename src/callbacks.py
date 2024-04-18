@@ -6,13 +6,23 @@ import sys
 import os
 sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 from src.app import app
-from src.data import df, geojson
+from src.data import df, geojson, df_grouped_by_company_location
 from dash.dependencies import Input, Output
+from flask_caching import Cache
+
+cache = Cache(
+    app.server,
+    config={
+        'CACHE_TYPE': 'filesystem',
+        'CACHE_DIR': 'tmp'
+    }
+)
 
 @app.callback(
     Output("heatmap_salary", "figure"),
     Input("filter-continent", "value"),
 )
+@cache.memoize()
 def update_heatmap_salary(selected_continents):
     if not selected_continents:
         empty_plot = px.choropleth_mapbox(
@@ -27,25 +37,22 @@ def update_heatmap_salary(selected_continents):
         empty_plot.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
         return empty_plot
 
-    filtered_df = df.copy()
-    filtered_df = filtered_df[filtered_df['continent'].isin(selected_continents)]
-    df_grouped_by_company_location = filtered_df.groupby(by=['company_location'])["salary"].mean().reset_index()
+    filtered_df = df_grouped_by_company_location[df_grouped_by_company_location['continent'].isin(selected_continents)][['company_location', 'salary']]
     
     heatmap_plot = px.choropleth_mapbox(
-        df_grouped_by_company_location, 
+        filtered_df, 
         geojson=geojson, 
         locations="company_location", 
         featureidkey="properties.ADMIN",
         color="salary",
         color_continuous_scale="Viridis",
-        range_color=(df_grouped_by_company_location["salary"].min(), df_grouped_by_company_location["salary"].max()),
+        range_color=(filtered_df["salary"].min(), filtered_df["salary"].max()),
         mapbox_style="carto-positron",
         zoom=1, center={"lat": 38.9637, "lon": 35.2433},
         opacity=0.5,
-        labels={'company_location':'Country'}
+        labels={'mean': 'Average Salary'}
     )
-    heatmap_plot.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
-    
+    heatmap_plot.update_layout(margin={"r":0, "t":0, "l":0, "b":0})
     return heatmap_plot
 
 @app.callback(
@@ -53,9 +60,8 @@ def update_heatmap_salary(selected_continents):
     Input("filter-continent", "value"),
 )
 def update_histogram_salary(selected_continents):
-    filtered_df = df.copy()
     if selected_continents:
-        filtered_df = filtered_df[filtered_df['continent'].isin(selected_continents)]
+        filtered_df = df[df['continent'].isin(selected_continents)]
     
     salary_distribution = px.histogram(
         filtered_df, 
@@ -87,9 +93,8 @@ def update_histogram_salary(selected_continents):
     Input("job_title_range_slider", "value")
 )
 def update_bar_chart_top_jobs(selected_continents, slider_range):
-    filtered_df = df.copy()
     if selected_continents:
-        filtered_df = filtered_df[filtered_df['continent'].isin(selected_continents)]
+        filtered_df = df[df['continent'].isin(selected_continents)]
     
     df_grouped_by_job_title = filtered_df.groupby("job_title")["salary"].mean().reset_index().sort_values(by='salary', ascending=False)
     
@@ -117,9 +122,8 @@ def update_bar_chart_top_jobs(selected_continents, slider_range):
     Input("filter-continent", "value"),
 )
 def update_range_slider(selected_continents):
-    filtered_df = df.copy()
     if selected_continents:
-        filtered_df = filtered_df[filtered_df['continent'].isin(selected_continents)]
+        filtered_df = df[df['continent'].isin(selected_continents)]
     job_titles = filtered_df['job_title'].unique()
     max_value = len(job_titles)
     default_range = [0, 10] if max_value >= 10 else [0, max_value] if max_value > 0 else [0, 0]
@@ -151,9 +155,8 @@ def update_box_plot_by_work_arrangement(selected_continents):
     Input("filter-continent", "value")
 )
 def update_box_plot_by_experience(selected_continents):
-    filtered_df = df.copy()
     if selected_continents:
-        filtered_df = filtered_df[filtered_df['continent'].isin(selected_continents)]
+        filtered_df = df[df['continent'].isin(selected_continents)]
     
     box_plot_experience = px.box(
         filtered_df, 

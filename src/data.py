@@ -2,7 +2,7 @@ import pandas as pd
 import json
 
 def wrangling():
-    df = pd.read_csv('data/raw/ds_salaries.csv')
+    df = pd.read_parquet('data/raw/ds_salaries.parquet')
 
     # Data Wrangling
     iso3166_to_continent = {
@@ -105,6 +105,8 @@ def wrangling():
     return df
 
 df = wrangling()
+
+df_grouped_by_company_location = df.groupby(by=['continent', 'company_location'])["salary"].mean().reset_index()
 
 with open('data/countries.geojson') as f:
     geojson = json.load(f)
