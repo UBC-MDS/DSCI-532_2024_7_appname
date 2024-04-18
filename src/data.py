@@ -102,9 +102,16 @@ def wrangling():
     df['job_title'] = df['job_title'].str.replace("Engineer", "Engr.")
     df['job_title'] = df['job_title'].str.replace("Scientist", "Sci.")
 
+    df.to_pickle('data/clean/ds_salaries.pkl')
+
+    df = pd.read_pickle('data/clean/ds_salaries.pkl')
+
     return df
 
-df = wrangling()
+if exists('data/clean/ds_salaries.pkl'):
+    df = pd.read_pickle('data/clean/ds_salaries.pkl')
+else:
+    df = wrangling()
 
 df_grouped_by_company_location = df.groupby(by=['continent', 'company_location'])["salary"].mean().reset_index()
 
