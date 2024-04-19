@@ -23,18 +23,18 @@ Label the slider on the data salary job rankings bar chart (complete)
 
 Bottom row widgets are misaligned, align them (complete)
 
-Abbreviate very long names in the data e.g Data Scentist -> DS (complete)
+Abbreviate very long names in the data e.g Data Scientist -> DS (complete)
 
 Polish title appearance (complete)
 
 **Future Improvements**
 
 If we were to further improve our dashboard, we would look for another data science salary data set to increase the sample size of our data. The more data we have, the more we can allow our users to customize their research. We would add global filters so our users can execute precise queries and develop their own insights. Our current data size of ~600 samples restricts us to only offering broad overviews.
-We would also fix the issue with our heatmap that allows the user to zoom out too far, effectivey showing multiple copies of the world side by side.
+We would also fix the issue with our heat map that allows the user to zoom out too far, effectively showing multiple copies of the world side by side.
 
 **Feedback for Joel**
 
 Dr. Joel Ostblom has asked for our feedback in this document on his feedback and teachings.
-We believe the lecture on improving performance (e.g caching) was particuarly useful. Prior to that lecture, little of the material in our MDS program had focused on run-time efficiency, but that skill is critical in many professional settings. We implemented caching in our latest milestone release and the improvements were immediatly noticed. We also found the weekly constructive criticsm of our dashboard by Joel useful. Having an experienced eye analyze the dashboard in its infancy allowed us to identify a major flaw in our design before we sunk too many resources into it.
+We believe the lecture on improving performance (e.g caching) was particularly useful. Prior to that lecture, little of the material in our MDS program had focused on run-time efficiency, but that skill is critical in many professional settings. We implemented caching in our latest milestone release and the improvements were immediately noticed. We also found the weekly constructive criticism of our dashboard by Joel useful. Having an experienced eye analyze the dashboard in its infancy allowed us to identify a major flaw in our design before we sunk too many resources into it.
 
-If we had to change anything about the feedback we recieved, it would be on the timing of the peer feedback. Our peers reviewed an old model that had been totally re-designed by the time we recieved the feedback. If the deadline for feedback was moved up to Tuesday instead of Saturday, this problem would have been avoided.
+If we had to change anything about the feedback we received, it would be on the timing of the peer feedback. Our peers reviewed an old model that had been totally re-designed by the time we received the feedback. If the deadline for feedback was moved up to Tuesday instead of Saturday, this problem would have been avoided.
