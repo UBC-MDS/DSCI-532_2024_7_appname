@@ -8,7 +8,7 @@ sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 from src.app import app
 from src.data import df, geojson, df_grouped_by_company_location
 from dash.dependencies import Input, Output
-from flask_caching import Cache
+from Flask-Caching import Cache
 
 cache = Cache(
     app.server,
